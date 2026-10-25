@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<h1>Game Reviews</h1>
+
+<div class="game-grid">
+{% for game in site.data.reviews %}
+    <div class="game-card">
+        <h2>{{ game.Name }}</h2>
+
+        <div class="rating">
+            ⭐ {{ game.Rating }}
+        </div>
+
+        <div>
+            🎮 {{ game.Platform }}
+        </div>
+
+        <div>
+            ✅ {{ game["Completed On"] }}
+        </div>
+    </div>
+{% endfor %}
+</div>
