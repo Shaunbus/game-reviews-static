@@ -22,8 +22,8 @@ title:  Wobsite
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   i am devloper
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/game-reviews-static" # the subpath of your site, e.g. /blog
+url: "https://shaunbus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  shaunbus
 
