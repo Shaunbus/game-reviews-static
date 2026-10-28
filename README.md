@@ -1,7 +1,6 @@
 Hey
 
-It's about to get wild
+Tools:
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
 
-testing stuff
-
-more testing
+API https://rawg.io/apidocs

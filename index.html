@@ -7,19 +7,25 @@ layout: default
 <div class="game-grid">
 {% for game in site.data.reviews %}
     <div class="game-card">
-        <h2>{{ game.Name }}</h2>
-
+        <img class="game-cover"
+        src="{{ '/assets/images/' | append: game.image | relative_url }}"
+        alt="{{ game.name }}">
+        
+        <h2>{{ game.name }}</h2>
+        
         <div class="rating">
-            ⭐ {{ game.Rating }}
+            ⭐ {{ game.rating }}
         </div>
 
         <div>
-            🎮 {{ game.Platform }}
+            🎮 {{ game.system }}
         </div>
 
         <div>
-            ✅ {{ game["Completed On"] }}
+            ✅ {{ game.date }}
         </div>
+        
     </div>
+    
 {% endfor %}
 </div>
