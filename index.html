@@ -8,7 +8,7 @@ layout: default
 {% for game in site.data.reviews %}
     <div class="game-card">
         <img class="game-cover"
-        src="{{ '/assets/images/' | append: game.image | relative_url }}"
+        src="{{ game.image }}"
         alt="{{ game.name }}">
         
         <h2>{{ game.name }}</h2>

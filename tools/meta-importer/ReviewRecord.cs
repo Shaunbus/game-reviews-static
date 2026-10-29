@@ -1,6 +1,6 @@
 ﻿namespace MetaImporter
 {
-    public sealed record ReviewRecord
+    public record ReviewRecord
     {
         public string name { get; set; } = string.Empty;
         public int rating { get; set; }
