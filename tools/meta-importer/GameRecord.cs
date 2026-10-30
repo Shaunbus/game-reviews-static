@@ -7,7 +7,7 @@ namespace MetaImporter
     public sealed record GameRecord
     {
         public string Name { get; set; } = string.Empty;
-        public int MyRating { get; set; }
+        public double MyRating { get; set; }
         public string DateCompleted { get; set; } = string.Empty;
         public string System { get; set; } = string.Empty;
         public Uri? ImageURI { get; set; }

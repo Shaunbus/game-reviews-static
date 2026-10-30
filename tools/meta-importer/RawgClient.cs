@@ -1,5 +1,4 @@
-﻿using System.Net.Http;
-using System.Net.Http.Json;
+﻿using System.Net.Http.Json;
 
 namespace MetaImporter
 {
@@ -7,9 +6,13 @@ namespace MetaImporter
     {
         private readonly HttpClient _httpClient = new();
 
-        public async Task<RawgSearchResponse?> GetGameAsync(string slug, string apiKey)
+        public async Task<RawgSearchResponse?> GetGameSearch(string slug, string apiKey)
         {
             return _httpClient.GetFromJsonAsync<RawgSearchResponse>($"https://api.rawg.io/api/games?search={slug}&key={apiKey}").GetAwaiter().GetResult(); ;
+        }
+        public async Task<RawgGame?> GetGame(string slug, string? apiKey)
+        {
+            return _httpClient.GetFromJsonAsync<RawgGame>($"https://api.rawg.io/api/games/{slug}?key={apiKey}").GetAwaiter().GetResult(); ;
         }
 
         public async Task<string> GetGameFromSlug(string slug, string apiKey)

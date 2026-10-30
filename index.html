@@ -8,21 +8,21 @@ layout: default
 {% for game in site.data.reviews %}
     <div class="game-card">
         <img class="game-cover"
-        src="{{ game.image }}"
+        src="{{ '/assets/images/' | append: game.Slug | append: '.png' | relative_url }}"
         alt="{{ game.name }}">
         
-        <h2>{{ game.name }}</h2>
+        <h2>{{ game.Name }}</h2>
         
         <div class="rating">
-            ⭐ {{ game.rating }}
+            ⭐ {{ game.MyRating }}
         </div>
 
         <div>
-            🎮 {{ game.system }}
+            🎮 {{ game.System }}
         </div>
 
         <div>
-            ✅ {{ game.date }}
+            ✅ {{ game.DateCompleted }}
         </div>
         
     </div>
