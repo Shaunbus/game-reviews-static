@@ -25,7 +25,7 @@ namespace MetaImporter
         public int? GetGameId(string gameName, string apiKey)
         {
             var url = $"https://www.steamgriddb.com/api/v2/search/autocomplete/{Uri.EscapeDataString(gameName)}";
-
+            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", apiKey);
             var result = _httpClient.GetFromJsonAsync<SteamGridSearchResponse>(url).GetAwaiter().GetResult();
             var gameId = result!.Data.First().Id;
             return gameId;
