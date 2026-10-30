@@ -2,11 +2,14 @@
 layout: default
 ---
 
-<h1>Game Reviews</h1>
+<h1>Muh Game Reviews</h1>
 
 <div class="game-grid">
 {% for game in site.data.reviews %}
-    <div class="game-card">
+    <div class="game-card
+        {% if game.MyRating > 10 %}goat
+        {% endif %}">
+
         <img class="game-cover"
         src="{{ '/assets/images/' | append: game.Slug | append: '.png' | relative_url }}"
         alt="{{ game.name }}">
@@ -14,7 +17,10 @@ layout: default
         <h2>{{ game.Name }}</h2>
         
         <div class="rating">
-            ⭐ {{ game.MyRating }}
+            {% if game.MyRating > 10 %} 🐐
+            {% else %} ⭐
+            {% endif %}
+            {{ game.MyRating }}
         </div>
 
         <div>
@@ -25,7 +31,6 @@ layout: default
             ✅ {{ game.DateCompleted }}
         </div>
         
-    </div>
-    
+    </div> 
 {% endfor %}
 </div>
