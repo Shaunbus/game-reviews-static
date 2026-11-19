@@ -61,6 +61,10 @@ namespace MetaImporter
             }
 
             var bytes = _httpClient.GetByteArrayAsync(url).GetAwaiter().GetResult();
+            if (!Path.Exists(Path.Combine("assets", "images")))
+            {
+                Directory.CreateDirectory(Path.Combine("assets", "images"));
+            }
             Console.WriteLine(Path.Combine("assets", "images", $"{slug}.png"), bytes);
             File.WriteAllBytes(Path.Combine("assets", "images", $"{slug}.png"), bytes);
         }

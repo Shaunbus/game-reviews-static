@@ -6,9 +6,10 @@ namespace MetaImporter
     {
         public void Run()
         {
+            // Load the API Keys
             DotNetEnv.Env.TraversePath().Load();
-            //string? apiKey = Environment.GetEnvironmentVariable("API_KEY");
-            string? apiKey = Environment.GetEnvironmentVariable("GRID_KEY");
+            string? rawgApiKey = Environment.GetEnvironmentVariable("RAWG_KEY");
+            string? gridApiKey = Environment.GetEnvironmentVariable("GRID_KEY");
 
             // TODO Move this to a different location
             string baseDir = AppDomain.CurrentDomain.BaseDirectory;
@@ -34,17 +35,17 @@ namespace MetaImporter
             var gridClient = new GridDBClient();
             var imageClient = new GridDBClient();
             var jsonTool = new JsonUtilities();
-            jsonTool.WriteToFile(games);
+
             foreach (GameRecord game in games)
             {
                 //check if cover art already exists
                 if (!File.Exists(Path.Combine("assets", "images", $"{game.Slug}.png")))
-                    {
+                {
                     Console.WriteLine("Searching for: " + game.Name);
-                    int? id = gridClient.GetGameId(game.Name, apiKey);
+                    int? id = gridClient.GetGameId(game.Name, gridApiKey);
                     // Get Top Rated Grid
                     
-                    var coverArt = gridClient.GetGrids(id, apiKey);
+                    var coverArt = gridClient.GetGrids(id, gridApiKey);
 
                     if (coverArt != null)
                     {
@@ -59,10 +60,18 @@ namespace MetaImporter
                 }
 
                 // Populate it with Metadata
-                //var result = rawgClient.GetGameSearch(game.Slug, apiKey);
-                //var gameResult = result.Result.Results.First();
+
+                // TODO: Check Cache if game exists
+                // See if theres a match of slug in cache
+                // Check theres a RAWG ID
+                var result = rawgClient.GetGameSearch(game.Slug, rawgApiKey);
+                RawgGame gameResult = result.Result.Results.First();
+                Console.WriteLine($"Searched {game.Slug}. Returned {gameResult.Slug}")  ;
+                game.RawgInfo = gameResult;
             }
-            
+
+            jsonTool.WriteToFile(games);
+
         }
     }
 }
