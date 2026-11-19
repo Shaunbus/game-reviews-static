@@ -1,2620 +1,6113 @@
 [
     {
         "Name": "The Talos Principle 2",
+        "Slug": "the-talos-principle-2",
         "MyRating": 11,
         "DateCompleted": "2024",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2023-11-01",
-        "RawgId": "",
-        "Slug": "the-talos-principle-2"
+        "RawgInfo": {
+            "Id": 961200,
+            "Name": "The Talos Principle 2",
+            "Slug": "talos-principle-2",
+            "Released": "2023-11-01",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.31
+        }
     },
     {
         "Name": "Vigilante 8: Second Offense",
+        "Slug": "vigilante-8-second-offense",
         "MyRating": 11,
         "DateCompleted": "2016",
         "System": "Dreamcast",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "1999-10-31",
-        "RawgId": "",
-        "Slug": "vigilante-8-second-offense"
+        "RawgInfo": {
+            "Id": 54552,
+            "Name": "Vigilante 8: 2nd Offense",
+            "Slug": "vigilante-8-2nd-offense",
+            "Released": "1999-10-31",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.18
+        }
     },
     {
         "Name": "The Witcher 3: Heart of Stone",
+        "Slug": "the-witcher-3-heart-of-stone",
         "MyRating": 11,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2015-10-13",
-        "RawgId": "",
-        "Slug": "the-witcher-3-heart-of-stone"
+        "RawgInfo": {
+            "Id": 43050,
+            "Name": "The Witcher 3: Wild Hunt \u2013 Hearts of Stone",
+            "Slug": "the-witcher-3-wild-hunt-hearts-of-stone",
+            "Released": "2015-10-13",
+            "Description": "",
+            "Metacritic": 90,
+            "Genres": [
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.76
+        }
     },
     {
         "Name": "SSX 3",
+        "Slug": "ssx-3",
         "MyRating": 11,
         "DateCompleted": "2016",
         "System": "GCB",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2003-10-21",
-        "RawgId": "",
-        "Slug": "ssx-3"
+        "RawgInfo": {
+            "Id": 53562,
+            "Name": "SSX 3",
+            "Slug": "ssx-3",
+            "Released": "2003-10-21",
+            "Description": "",
+            "Metacritic": 93,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Sports"
+                }
+            ],
+            "Rating": 4.37
+        }
     },
     {
         "Name": "Mass Effect",
+        "Slug": "mass-effect",
         "MyRating": 11,
         "DateCompleted": "2013",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-03-21",
-        "RawgId": "",
-        "Slug": "mass-effect"
+        "RawgInfo": {
+            "Id": 137,
+            "Name": "Mass Effect: Andromeda",
+            "Slug": "mass-effect-andromeda",
+            "Released": "2017-03-21",
+            "Description": "",
+            "Metacritic": 73,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.21
+        }
     },
     {
         "Name": "Clair Obscur: Expedition 33",
+        "Slug": "clair-obscur-expedition-33",
         "MyRating": 11,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2025-04-24",
-        "RawgId": "",
-        "Slug": "clair-obscur-expedition-33"
+        "RawgInfo": {
+            "Id": 983210,
+            "Name": "Clair Obscur: Expedition 33",
+            "Slug": "clair-obscur-expedition-33",
+            "Released": "2025-04-24",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.43
+        }
     },
     {
         "Name": "Cassete Beasts",
+        "Slug": "cassete-beasts",
         "MyRating": 10,
         "DateCompleted": "2023",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2023-04-26",
-        "RawgId": "",
-        "Slug": "cassete-beasts"
+        "RawgInfo": {
+            "Id": 959976,
+            "Name": "Cassette Beasts",
+            "Slug": "cassette-beasts",
+            "Released": "2023-04-26",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.62
+        }
     },
     {
         "Name": "Dredge",
+        "Slug": "dredge",
         "MyRating": 10,
         "DateCompleted": "2023",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2023-03-29",
-        "RawgId": "",
-        "Slug": "dredge"
+        "RawgInfo": {
+            "Id": 842402,
+            "Name": "Dredge",
+            "Slug": "dredge",
+            "Released": "2023-03-29",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.24
+        }
     },
     {
         "Name": "Halls of Torment",
+        "Slug": "halls-of-torment",
         "MyRating": 10,
         "DateCompleted": "2023",
         "System": "BBD/PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2023-03-09",
-        "RawgId": "",
-        "Slug": "halls-of-torment"
+        "RawgInfo": {
+            "Id": 938162,
+            "Name": "Halls of Torment: Prelude",
+            "Slug": "halls-of-torment-prelude",
+            "Released": "2023-03-09",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Casual"
+                },
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 0
+        }
     },
     {
         "Name": "Blasphemous 2",
+        "Slug": "blasphemous-2",
         "MyRating": 10,
         "DateCompleted": "2023",
         "System": "PC/Deck",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2019-09-09",
-        "RawgId": "",
-        "Slug": "blasphemous-2"
+        "RawgInfo": {
+            "Id": 258322,
+            "Name": "Blasphemous",
+            "Slug": "blasphemous",
+            "Released": "2019-09-09",
+            "Description": "",
+            "Metacritic": 78,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.06
+        }
     },
     {
         "Name": "Ratchet \u0026 Clank: Rift Apart",
+        "Slug": "ratchet-clank-rift-apart",
         "MyRating": 10,
         "DateCompleted": "2023",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2021-06-11",
-        "RawgId": "",
-        "Slug": "ratchet-clank-rift-apart"
+        "RawgInfo": {
+            "Id": 727315,
+            "Name": "Ratchet \u0026 Clank: Rift Apart",
+            "Slug": "ratchet-clank-rift-apart",
+            "Released": "2021-06-11",
+            "Description": "",
+            "Metacritic": 88,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.38
+        }
     },
     {
         "Name": "Lies of P",
+        "Slug": "lies-of-p",
         "MyRating": 10,
         "DateCompleted": "2023",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2025-06-07",
-        "RawgId": "",
-        "Slug": "lies-of-p"
+        "RawgInfo": {
+            "Id": 997552,
+            "Name": "Lies of P: Overture",
+            "Slug": "lies-of-p-overture",
+            "Released": "2025-06-07",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.27
+        }
     },
     {
         "Name": "Ori and the Blind Forest",
+        "Slug": "ori-and-the-blind-forest",
         "MyRating": 10,
         "DateCompleted": "2022",
         "System": "PC/Deck",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2016-04-27",
-        "RawgId": "",
-        "Slug": "ori-and-the-blind-forest"
+        "RawgInfo": {
+            "Id": 17959,
+            "Name": "Ori and the Blind Forest: Definitive Edition",
+            "Slug": "ori-and-the-blind-forest-definitive-edition",
+            "Released": "2016-04-27",
+            "Description": "",
+            "Metacritic": 88,
+            "Genres": [
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Adventure"
+                }
+            ],
+            "Rating": 4.42
+        }
     },
     {
         "Name": "Super Mario Odyssey",
+        "Slug": "super-mario-odyssey",
         "MyRating": 10,
         "DateCompleted": "2022",
         "System": "PC/Ryujinx",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "1994-01-21",
-        "RawgId": "",
-        "Slug": "super-mario-odyssey"
+        "RawgInfo": {
+            "Id": 27150,
+            "Name": "Wario Land: Super Mario Land 3",
+            "Slug": "wario-land-super-mario-land-3",
+            "Released": "1994-01-21",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [],
+            "Rating": 4.22
+        }
     },
     {
         "Name": "Monster Hunter Rise",
+        "Slug": "monster-hunter-rise",
         "MyRating": 10,
         "DateCompleted": "2021",
         "System": "Switch",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2021-03-26",
-        "RawgId": "",
-        "Slug": "monster-hunter-rise"
+        "RawgInfo": {
+            "Id": 494393,
+            "Name": "Monster Hunter Rise",
+            "Slug": "monster-hunter-rise",
+            "Released": "2021-03-26",
+            "Description": "",
+            "Metacritic": 87,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.17
+        }
     },
     {
         "Name": "Sekiro",
+        "Slug": "sekiro",
         "MyRating": 10,
         "DateCompleted": "2021",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2020-04-21",
-        "RawgId": "",
-        "Slug": "sekiro"
+        "RawgInfo": {
+            "Id": 433707,
+            "Name": "Sekiro",
+            "Slug": "sekiro",
+            "Released": "2020-04-21",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [],
+            "Rating": 0
+        }
     },
     {
         "Name": "Monster Hunter World: Iceborne",
+        "Slug": "monster-hunter-world-iceborne",
         "MyRating": 10,
         "DateCompleted": "2020",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2019-09-06",
-        "RawgId": "",
-        "Slug": "monster-hunter-world-iceborne"
+        "RawgInfo": {
+            "Id": 366889,
+            "Name": "Monster Hunter World: Iceborne",
+            "Slug": "monster-hunter-world-iceborne",
+            "Released": "2019-09-06",
+            "Description": "",
+            "Metacritic": 89,
+            "Genres": [
+                {
+                    "Name": "Massively Multiplayer"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.46
+        }
     },
     {
         "Name": "The Vanishing of Ethan Carter",
+        "Slug": "the-vanishing-of-ethan-carter",
         "MyRating": 10,
         "DateCompleted": "2018",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2015-07-15",
-        "RawgId": "",
-        "Slug": "the-vanishing-of-ethan-carter"
+        "RawgInfo": {
+            "Id": 473489,
+            "Name": "The Vanishing of Ethan Carter Redux",
+            "Slug": "the-vanishing-of-ethan-carter-redux",
+            "Released": "2015-07-15",
+            "Description": "",
+            "Metacritic": 80,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                }
+            ],
+            "Rating": 3.71
+        }
     },
     {
         "Name": "Bioshock Infinite: Burial At Sea DLC",
+        "Slug": "bioshock-infinite-burial-at-sea-dlc",
         "MyRating": 10,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2014-03-25",
-        "RawgId": "",
-        "Slug": "bioshock-infinite-burial-at-sea-dlc"
+        "RawgInfo": {
+            "Id": 42303,
+            "Name": "BioShock Infinite: Burial at Sea - Episode Two",
+            "Slug": "bioshock-infinite-burial-at-sea-episode-2",
+            "Released": "2014-03-25",
+            "Description": "",
+            "Metacritic": 82,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.43
+        }
     },
     {
         "Name": "DOOM (2016)",
+        "Slug": "doom-2016",
         "MyRating": 10,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2016-05-12",
-        "RawgId": "",
-        "Slug": "doom-2016"
+        "RawgInfo": {
+            "Id": 2454,
+            "Name": "DOOM (2016)",
+            "Slug": "doom",
+            "Released": "2016-05-12",
+            "Description": "",
+            "Metacritic": 85,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.38
+        }
     },
     {
         "Name": "The Witcher 3: Blood and Wine",
+        "Slug": "the-witcher-3-blood-and-wine",
         "MyRating": 10,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2016-05-30",
-        "RawgId": "",
-        "Slug": "the-witcher-3-blood-and-wine"
+        "RawgInfo": {
+            "Id": 43252,
+            "Name": "The Witcher 3: Wild Hunt \u2013 Blood and Wine",
+            "Slug": "the-witcher-3-wild-hunt-blood-and-wine",
+            "Released": "2016-05-30",
+            "Description": "",
+            "Metacritic": 92,
+            "Genres": [
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.82
+        }
     },
     {
         "Name": "Need for Speed: Underground 2",
+        "Slug": "need-for-speed-underground-2",
         "MyRating": 10,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2004-11-15",
-        "RawgId": "",
-        "Slug": "need-for-speed-underground-2"
+        "RawgInfo": {
+            "Id": 53446,
+            "Name": "Need for Speed: Underground 2",
+            "Slug": "need-for-speed-underground-2-2",
+            "Released": "2004-11-15",
+            "Description": "",
+            "Metacritic": 82,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Arcade"
+                }
+            ],
+            "Rating": 4.39
+        }
     },
     {
         "Name": "Darksiders 2: Deathinitive Edition",
+        "Slug": "darksiders-2-deathinitive-edition",
         "MyRating": 10,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2015-11-05",
-        "RawgId": "",
-        "Slug": "darksiders-2-deathinitive-edition"
+        "RawgInfo": {
+            "Id": 10449,
+            "Name": "Darksiders II Deathinitive Edition",
+            "Slug": "darksiders-ii-deathinitive-edition",
+            "Released": "2015-11-05",
+            "Description": "",
+            "Metacritic": 75,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.79
+        }
     },
     {
         "Name": "The Witcher 3: Wild Hunt",
+        "Slug": "the-witcher-3-wild-hunt",
         "MyRating": 10,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2015-05-18",
-        "RawgId": "",
-        "Slug": "the-witcher-3-wild-hunt"
+        "RawgInfo": {
+            "Id": 3328,
+            "Name": "The Witcher 3: Wild Hunt",
+            "Slug": "the-witcher-3-wild-hunt",
+            "Released": "2015-05-18",
+            "Description": "",
+            "Metacritic": 92,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.64
+        }
     },
     {
         "Name": "Darks Souls 2: Scholars of the First Sin",
+        "Slug": "darks-souls-2-scholars-of-the-first-sin",
         "MyRating": 10,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2015-04-01",
-        "RawgId": "",
-        "Slug": "darks-souls-2-scholars-of-the-first-sin"
+        "RawgInfo": {
+            "Id": 3371,
+            "Name": "Dark Souls II: Scholar of the First Sin",
+            "Slug": "dark-souls-ii-scholar-of-the-first-sin",
+            "Released": "2015-04-01",
+            "Description": "",
+            "Metacritic": 79,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.14
+        }
     },
     {
         "Name": "Dark Souls: Prepare to Die",
+        "Slug": "dark-souls-prepare-to-die",
         "MyRating": 10,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2012-08-23",
-        "RawgId": "",
-        "Slug": "dark-souls-prepare-to-die"
+        "RawgInfo": {
+            "Id": 14962,
+            "Name": "Dark Souls: Prepare To Die Edition",
+            "Slug": "dark-souls-prepare-to-die-edition",
+            "Released": "2012-08-23",
+            "Description": "",
+            "Metacritic": 85,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.37
+        }
     },
     {
         "Name": "Tomb Raider",
+        "Slug": "tomb-raider",
         "MyRating": 10,
         "DateCompleted": "2014",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2013-03-05",
-        "RawgId": "",
-        "Slug": "tomb-raider"
+        "RawgInfo": {
+            "Id": 5286,
+            "Name": "Tomb Raider",
+            "Slug": "tomb-raider",
+            "Released": "2013-03-05",
+            "Description": "",
+            "Metacritic": 86,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.06
+        }
     },
     {
         "Name": "Hades",
+        "Slug": "hades",
         "MyRating": 10,
         "DateCompleted": "2024",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2020-09-17",
-        "RawgId": "",
-        "Slug": "hades"
+        "RawgInfo": {
+            "Id": 274755,
+            "Name": "Hades",
+            "Slug": "hades-2018",
+            "Released": "2020-09-17",
+            "Description": "",
+            "Metacritic": 93,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.41
+        }
     },
     {
         "Name": "Human Fall Flat",
+        "Slug": "human-fall-flat",
         "MyRating": 10,
         "DateCompleted": "2024",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2016-07-22",
-        "RawgId": "",
-        "Slug": "human-fall-flat"
+        "RawgInfo": {
+            "Id": 13247,
+            "Name": "Human: Fall Flat",
+            "Slug": "human-fall-flat",
+            "Released": "2016-07-22",
+            "Description": "",
+            "Metacritic": 70,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "Puzzle"
+                }
+            ],
+            "Rating": 3.83
+        }
     },
     {
         "Name": "Elden Ring: Shadow of Erdtree",
+        "Slug": "elden-ring-shadow-of-erdtree",
         "MyRating": 10,
         "DateCompleted": "2024",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2024-06-21",
-        "RawgId": "",
-        "Slug": "elden-ring-shadow-of-erdtree"
+        "RawgInfo": {
+            "Id": 977470,
+            "Name": "Elden Ring: Shadow of the Erdtree",
+            "Slug": "elden-ring-shadow-of-the-erdtree",
+            "Released": "2024-06-21",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.45
+        }
     },
     {
         "Name": "Marvel Midnight Suns",
+        "Slug": "marvel-midnight-suns",
         "MyRating": 10,
         "DateCompleted": "2024",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2022-12-02",
-        "RawgId": "",
-        "Slug": "marvel-midnight-suns"
+        "RawgInfo": {
+            "Id": 650604,
+            "Name": "Marvel\u0027s Midnight Suns",
+            "Slug": "marvels-midnight-suns",
+            "Released": "2022-12-02",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Strategy"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.98
+        }
     },
     {
         "Name": "Resident Evil 4 (2023)",
+        "Slug": "resident-evil-4-2023",
         "MyRating": 10,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2023-03-24",
-        "RawgId": "",
-        "Slug": "resident-evil-4-2023"
+        "RawgInfo": {
+            "Id": 795632,
+            "Name": "Resident Evil 4",
+            "Slug": "resident-evil-4-2023",
+            "Released": "2023-03-24",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.57
+        }
     },
     {
         "Name": "Lies of P: Overture",
+        "Slug": "lies-of-p-overture",
         "MyRating": 10,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2025-06-07",
-        "RawgId": "",
-        "Slug": "lies-of-p-overture"
+        "RawgInfo": {
+            "Id": 997552,
+            "Name": "Lies of P: Overture",
+            "Slug": "lies-of-p-overture",
+            "Released": "2025-06-07",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.27
+        }
     },
     {
         "Name": "Indiana Jones and the Great Circle",
+        "Slug": "indiana-jones-and-the-great-circle",
         "MyRating": 10,
         "DateCompleted": "2026",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2024-12-08",
-        "RawgId": "",
-        "Slug": "indiana-jones-and-the-great-circle"
+        "RawgInfo": {
+            "Id": 994839,
+            "Name": "Indiana Jones and the Great Circle - Digital Artbook",
+            "Slug": "indiana-jones-and-the-great-circle-digital-artbook",
+            "Released": "2024-12-08",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [],
+            "Rating": 0
+        }
     },
     {
         "Name": "Ori and the Will of the Wisps",
+        "Slug": "ori-and-the-will-of-the-wisps",
         "MyRating": 10,
         "DateCompleted": "2026",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2020-03-10",
-        "RawgId": "",
-        "Slug": "ori-and-the-will-of-the-wisps"
+        "RawgInfo": {
+            "Id": 28199,
+            "Name": "Ori and the Will of the Wisps",
+            "Slug": "ori-and-the-will-of-the-wisps",
+            "Released": "2020-03-10",
+            "Description": "",
+            "Metacritic": 91,
+            "Genres": [
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.41
+        }
     },
     {
         "Name": "Cairn",
+        "Slug": "cairn",
         "MyRating": 10,
         "DateCompleted": "2026",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2026-01-28",
-        "RawgId": "",
-        "Slug": "cairn"
+        "RawgInfo": {
+            "Id": 139102,
+            "Name": "Cairn",
+            "Slug": "cairn",
+            "Released": "2026-01-28",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                }
+            ],
+            "Rating": 4.14
+        }
     },
     {
         "Name": "Remnant: From the Ashes",
+        "Slug": "remnant-from-the-ashes",
         "MyRating": 9.9,
         "DateCompleted": "2023",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2019-08-20",
-        "RawgId": "",
-        "Slug": "remnant-from-the-ashes"
+        "RawgInfo": {
+            "Id": 236694,
+            "Name": "Remnant: From the Ashes",
+            "Slug": "remnant-from-the-ashes",
+            "Released": "2019-08-20",
+            "Description": "",
+            "Metacritic": 76,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.61
+        }
     },
     {
         "Name": "Elden Ring",
+        "Slug": "elden-ring",
         "MyRating": 9.9,
         "DateCompleted": "2022",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2024-06-21",
-        "RawgId": "",
-        "Slug": "elden-ring"
+        "RawgInfo": {
+            "Id": 977470,
+            "Name": "Elden Ring: Shadow of the Erdtree",
+            "Slug": "elden-ring-shadow-of-the-erdtree",
+            "Released": "2024-06-21",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.45
+        }
     },
     {
         "Name": "The Talos Principle: Road To Gehenna",
+        "Slug": "the-talos-principle-road-to-gehenna",
         "MyRating": 9.9,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2015-07-23",
-        "RawgId": "",
-        "Slug": "the-talos-principle-road-to-gehenna"
+        "RawgInfo": {
+            "Id": 43228,
+            "Name": "The Talos Principle: Road to Gehenna",
+            "Slug": "the-talos-principle-road-to-gehenna",
+            "Released": "2015-07-23",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Puzzle"
+                }
+            ],
+            "Rating": 4.31
+        }
     },
     {
         "Name": "Donkey Kong: Country Returns",
+        "Slug": "donkey-kong-country-returns",
         "MyRating": 9.9,
         "DateCompleted": "2017",
         "System": "Wii",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "1994-11-21",
-        "RawgId": "",
-        "Slug": "donkey-kong-country-returns"
+        "RawgInfo": {
+            "Id": 27571,
+            "Name": "Donkey Kong Country",
+            "Slug": "donkey-kong-country",
+            "Released": "1994-11-21",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Platformer"
+                }
+            ],
+            "Rating": 4.38
+        }
     },
     {
         "Name": "Donkey Kong Bananza",
+        "Slug": "donkey-kong-bananza",
         "MyRating": 9.9,
         "DateCompleted": "2025",
         "System": "Switch 2",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "1981-07-09",
-        "RawgId": "",
-        "Slug": "donkey-kong-bananza"
+        "RawgInfo": {
+            "Id": 52512,
+            "Name": "Donkey Kong",
+            "Slug": "arcade-archives-donkey-kong",
+            "Released": "1981-07-09",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Puzzle"
+                }
+            ],
+            "Rating": 3.73
+        }
     },
     {
         "Name": "It Takes Two",
+        "Slug": "it-takes-two",
         "MyRating": 9.8,
         "DateCompleted": "2023",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2021-03-26",
-        "RawgId": "",
-        "Slug": "it-takes-two"
+        "RawgInfo": {
+            "Id": 455597,
+            "Name": "It Takes Two",
+            "Slug": "it-takes-two-2",
+            "Released": "2021-03-26",
+            "Description": "",
+            "Metacritic": 88,
+            "Genres": [
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.45
+        }
     },
     {
         "Name": "Yoku\u2019s Island Express",
+        "Slug": "yokus-island-express",
         "MyRating": 9.8,
         "DateCompleted": "2019",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2018-05-28",
-        "RawgId": "",
-        "Slug": "yokus-island-express"
+        "RawgInfo": {
+            "Id": 10547,
+            "Name": "Yoku\u0027s Island Express",
+            "Slug": "yokus-island-express",
+            "Released": "2018-05-28",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                }
+            ],
+            "Rating": 4.14
+        }
     },
     {
         "Name": "Subnautica ",
+        "Slug": "subnautica",
         "MyRating": 9.8,
         "DateCompleted": "2018",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2018-01-23",
-        "RawgId": "",
-        "Slug": "subnautica"
+        "RawgInfo": {
+            "Id": 10419,
+            "Name": "Subnautica",
+            "Slug": "subnautica",
+            "Released": "2018-01-23",
+            "Description": "",
+            "Metacritic": 83,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                }
+            ],
+            "Rating": 4.24
+        }
     },
     {
         "Name": "SOMA",
+        "Slug": "soma",
         "MyRating": 9.8,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2015-09-21",
-        "RawgId": "",
-        "Slug": "soma"
+        "RawgInfo": {
+            "Id": 3168,
+            "Name": "SOMA",
+            "Slug": "soma",
+            "Released": "2015-09-21",
+            "Description": "",
+            "Metacritic": 84,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.17
+        }
     },
     {
         "Name": "Dragon Age: Origins Awakening DLC",
+        "Slug": "dragon-age-origins-awakening-dlc",
         "MyRating": 9.8,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2010-03-16",
-        "RawgId": "",
-        "Slug": "dragon-age-origins-awakening-dlc"
+        "RawgInfo": {
+            "Id": 19430,
+            "Name": "Dragon Age: Origins Awakening",
+            "Slug": "dragon-age-origins-awakening",
+            "Released": "2010-03-16",
+            "Description": "",
+            "Metacritic": 82,
+            "Genres": [
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.47
+        }
     },
     {
         "Name": "The Talos Principle",
+        "Slug": "the-talos-principle",
         "MyRating": 9.8,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2023-11-01",
-        "RawgId": "",
-        "Slug": "the-talos-principle"
+        "RawgInfo": {
+            "Id": 961200,
+            "Name": "The Talos Principle 2",
+            "Slug": "talos-principle-2",
+            "Released": "2023-11-01",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.31
+        }
     },
     {
         "Name": "Dishonored",
+        "Slug": "dishonored",
         "MyRating": 9.8,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2012-09-25",
-        "RawgId": "",
-        "Slug": "dishonored"
+        "RawgInfo": {
+            "Id": 4248,
+            "Name": "Dishonored",
+            "Slug": "dishonored",
+            "Released": "2012-09-25",
+            "Description": "",
+            "Metacritic": 91,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.38
+        }
     },
     {
         "Name": "Last of Us: Part 1 Remastered",
+        "Slug": "last-of-us-part-1-remastered",
         "MyRating": 9.8,
         "DateCompleted": "2026",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2022-09-02",
-        "RawgId": "",
-        "Slug": "last-of-us-part-1-remastered"
+        "RawgInfo": {
+            "Id": 799265,
+            "Name": "The Last of Us Part I",
+            "Slug": "the-last-of-us-part-i",
+            "Released": "2022-09-02",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.67
+        }
     },
     {
         "Name": "The Surge",
+        "Slug": "the-surge",
         "MyRating": 9.7,
         "DateCompleted": "2018",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2016-05-16",
-        "RawgId": "",
-        "Slug": "the-surge"
+        "RawgInfo": {
+            "Id": 12895,
+            "Name": "Surge",
+            "Slug": "surge",
+            "Released": "2016-05-16",
+            "Description": "",
+            "Metacritic": 77,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4
+        }
     },
     {
         "Name": "Titanfall 2",
+        "Slug": "titanfall-2",
         "MyRating": 9.7,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2014-03-11",
-        "RawgId": "",
-        "Slug": "titanfall-2"
+        "RawgInfo": {
+            "Id": 42230,
+            "Name": "Titanfall",
+            "Slug": "titanfall",
+            "Released": "2014-03-11",
+            "Description": "",
+            "Metacritic": 85,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4
+        }
     },
     {
         "Name": "Dragon Age: Origins",
+        "Slug": "dragon-age-origins",
         "MyRating": 9.7,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2009-11-03",
-        "RawgId": "",
-        "Slug": "dragon-age-origins"
+        "RawgInfo": {
+            "Id": 4639,
+            "Name": "Dragon Age: Origins",
+            "Slug": "dragon-age-origins",
+            "Released": "2009-11-03",
+            "Description": "",
+            "Metacritic": 91,
+            "Genres": [
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.38
+        }
     },
     {
         "Name": "Super Mario Galaxy 2",
+        "Slug": "super-mario-galaxy-2",
         "MyRating": 9.7,
         "DateCompleted": "2014",
         "System": "Wii",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "1988-10-09",
-        "RawgId": "",
-        "Slug": "super-mario-galaxy-2"
+        "RawgInfo": {
+            "Id": 25173,
+            "Name": "Super Mario Bros. 2",
+            "Slug": "super-mario-bros-2",
+            "Released": "1988-10-09",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.92
+        }
     },
     {
         "Name": "Little Nightmares 2",
+        "Slug": "little-nightmares-2",
         "MyRating": 9.7,
         "DateCompleted": "2024",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2020-12-09",
-        "RawgId": "",
-        "Slug": "little-nightmares-2"
+        "RawgInfo": {
+            "Id": 528764,
+            "Name": "Little Nightmares II - DEMO",
+            "Slug": "little-nightmares-ii-demo",
+            "Released": "2020-12-09",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Platformer"
+                }
+            ],
+            "Rating": 0
+        }
     },
     {
         "Name": "Metal Gear Solid 5 : Phantom Pain",
+        "Slug": "metal-gear-solid-5-phantom-pain",
         "MyRating": 9.6,
         "DateCompleted": "2019",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2015-09-01",
-        "RawgId": "",
-        "Slug": "metal-gear-solid-5-phantom-pain"
+        "RawgInfo": {
+            "Id": 3192,
+            "Name": "Metal Gear Solid V: The Phantom Pain",
+            "Slug": "metal-gear-solid-v-the-phantom-pain",
+            "Released": "2015-09-01",
+            "Description": "",
+            "Metacritic": 91,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.16
+        }
     },
     {
         "Name": "Bioshock 2",
+        "Slug": "bioshock-2",
         "MyRating": 9.6,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2010-02-09",
-        "RawgId": "",
-        "Slug": "bioshock-2"
+        "RawgInfo": {
+            "Id": 4427,
+            "Name": "BioShock 2",
+            "Slug": "bioshock-2",
+            "Released": "2010-02-09",
+            "Description": "",
+            "Metacritic": 88,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.07
+        }
     },
     {
         "Name": "Far Cry 3 Blood Dragon",
+        "Slug": "far-cry-3-blood-dragon",
         "MyRating": 9.6,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2013-04-30",
-        "RawgId": "",
-        "Slug": "far-cry-3-blood-dragon"
+        "RawgInfo": {
+            "Id": 19375,
+            "Name": "Far Cry 3: Blood Dragon",
+            "Slug": "far-cry-3-blood-dragon-2",
+            "Released": "2013-04-30",
+            "Description": "",
+            "Metacritic": 81,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                }
+            ],
+            "Rating": 4
+        }
     },
     {
         "Name": "Brothers \u2013 A Tale of Two Sons",
+        "Slug": "brothers-a-tale-of-two-sons",
         "MyRating": 9.6,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2013-08-07",
-        "RawgId": "",
-        "Slug": "brothers-a-tale-of-two-sons"
+        "RawgInfo": {
+            "Id": 18240,
+            "Name": "Brothers: A Tale of Two Sons",
+            "Slug": "brothers-a-tale-of-two-sons-2",
+            "Released": "2013-08-07",
+            "Description": "",
+            "Metacritic": 90,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.18
+        }
     },
     {
         "Name": "Alan Wake",
+        "Slug": "alan-wake",
         "MyRating": 9.6,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2010-05-14",
-        "RawgId": "",
-        "Slug": "alan-wake"
+        "RawgInfo": {
+            "Id": 19487,
+            "Name": "Alan Wake",
+            "Slug": "alan-wake",
+            "Released": "2010-05-14",
+            "Description": "",
+            "Metacritic": 83,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.09
+        }
     },
     {
         "Name": "Grand Theft Auto 5",
+        "Slug": "grand-theft-auto-5",
         "MyRating": 9.6,
         "DateCompleted": "2013",
         "System": "360",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2013-09-17",
-        "RawgId": "",
-        "Slug": "grand-theft-auto-5"
+        "RawgInfo": {
+            "Id": 3498,
+            "Name": "Grand Theft Auto V",
+            "Slug": "grand-theft-auto-v",
+            "Released": "2013-09-17",
+            "Description": "",
+            "Metacritic": 92,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.46
+        }
     },
     {
         "Name": "Factorio",
+        "Slug": "factorio",
         "MyRating": 9.6,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2020-08-14",
-        "RawgId": "",
-        "Slug": "factorio"
+        "RawgInfo": {
+            "Id": 10926,
+            "Name": "Factorio",
+            "Slug": "factorio",
+            "Released": "2020-08-14",
+            "Description": "",
+            "Metacritic": 83,
+            "Genres": [
+                {
+                    "Name": "Casual"
+                },
+                {
+                    "Name": "Strategy"
+                },
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Simulation"
+                }
+            ],
+            "Rating": 4.35
+        }
     },
     {
         "Name": "Pokemon Ultra Moon",
+        "Slug": "pokemon-ultra-moon",
         "MyRating": 9.6,
         "DateCompleted": "2025",
         "System": "BBD",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-11-17",
-        "RawgId": "",
-        "Slug": "pokemon-ultra-moon"
+        "RawgInfo": {
+            "Id": 27939,
+            "Name": "Pok\u00E9mon Ultra Sun, Ultra Moon",
+            "Slug": "pokemon-ultra-sun",
+            "Released": "2017-11-17",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.78
+        }
     },
     {
         "Name": "Marvels Spider-Man: Miles Morales",
+        "Slug": "marvels-spider-man-miles-morales",
         "MyRating": 9.6,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2020-11-12",
-        "RawgId": "",
-        "Slug": "marvels-spider-man-miles-morales"
+        "RawgInfo": {
+            "Id": 452634,
+            "Name": "Marvel\u0027s Spider-Man: Miles Morales",
+            "Slug": "marvels-spider-man-miles-morales",
+            "Released": "2020-11-12",
+            "Description": "",
+            "Metacritic": 86,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.25
+        }
     },
     {
         "Name": "Dragon Quest Monsters: The Dark Prince",
+        "Slug": "dragon-quest-monsters-the-dark-prince",
         "MyRating": 9.6,
         "DateCompleted": "2026",
         "System": "PC/BBD",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2023-12-01",
-        "RawgId": "",
-        "Slug": "dragon-quest-monsters-the-dark-prince"
+        "RawgInfo": {
+            "Id": 962498,
+            "Name": "Dragon Quest Monsters: The Dark Prince",
+            "Slug": "dragon-quest-monsters-the-dark-prince",
+            "Released": "2023-12-01",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 0
+        }
     },
     {
         "Name": "Hollow Knight",
+        "Slug": "hollow-knight",
         "MyRating": 9.5,
         "DateCompleted": "2019",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-02-23",
-        "RawgId": "",
-        "Slug": "hollow-knight"
+        "RawgInfo": {
+            "Id": 9767,
+            "Name": "Hollow Knight",
+            "Slug": "hollow-knight",
+            "Released": "2017-02-23",
+            "Description": "",
+            "Metacritic": 88,
+            "Genres": [
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.4
+        }
     },
     {
         "Name": "Forza Horizon 3",
+        "Slug": "forza-horizon-3",
         "MyRating": 9.5,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2016-09-27",
-        "RawgId": "",
-        "Slug": "forza-horizon-3"
+        "RawgInfo": {
+            "Id": 881,
+            "Name": "Forza Horizon 3",
+            "Slug": "forza-horizon-3",
+            "Released": "2016-09-27",
+            "Description": "",
+            "Metacritic": 88,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Arcade"
+                }
+            ],
+            "Rating": 4.37
+        }
     },
     {
         "Name": "Crypt of the Necrodancer",
+        "Slug": "crypt-of-the-necrodancer",
         "MyRating": 9.5,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2015-04-22",
-        "RawgId": "",
-        "Slug": "crypt-of-the-necrodancer"
+        "RawgInfo": {
+            "Id": 2845,
+            "Name": "Crypt of the NecroDancer",
+            "Slug": "crypt-of-the-necrodancer",
+            "Released": "2015-04-22",
+            "Description": "",
+            "Metacritic": 87,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.99
+        }
     },
     {
         "Name": "ClusterTruck",
+        "Slug": "clustertruck",
         "MyRating": 9.5,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2016-09-26",
-        "RawgId": "",
-        "Slug": "clustertruck"
+        "RawgInfo": {
+            "Id": 1241,
+            "Name": "ClusterTruck",
+            "Slug": "clustertruck",
+            "Released": "2016-09-26",
+            "Description": "",
+            "Metacritic": 76,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Arcade"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.81
+        }
     },
     {
         "Name": "Forza Horizon",
+        "Slug": "forza-horizon",
         "MyRating": 9.5,
         "DateCompleted": "2016",
         "System": "Xbox 360",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2021-11-08",
-        "RawgId": "",
-        "Slug": "forza-horizon"
+        "RawgInfo": {
+            "Id": 622492,
+            "Name": "Forza Horizon 5",
+            "Slug": "forza-horizon-5",
+            "Released": "2021-11-08",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Arcade"
+                }
+            ],
+            "Rating": 4.28
+        }
     },
     {
         "Name": "Need for Speed: Underground",
+        "Slug": "need-for-speed-underground",
         "MyRating": 9.5,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2003-11-17",
-        "RawgId": "",
-        "Slug": "need-for-speed-underground"
+        "RawgInfo": {
+            "Id": 53445,
+            "Name": "Need for Speed: Underground",
+            "Slug": "need-for-speed-underground-3",
+            "Released": "2003-11-17",
+            "Description": "",
+            "Metacritic": 82,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Arcade"
+                }
+            ],
+            "Rating": 4.33
+        }
     },
     {
         "Name": "Mass Effect 3",
+        "Slug": "mass-effect-3",
         "MyRating": 9.5,
         "DateCompleted": "2013",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2012-07-17",
-        "RawgId": "",
-        "Slug": "mass-effect-3"
+        "RawgInfo": {
+            "Id": 42048,
+            "Name": "Mass Effect 3: Earth",
+            "Slug": "mass-effect-3-earth",
+            "Released": "2012-07-17",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4
+        }
     },
     {
         "Name": "Uncharted 4: A Thiefs End",
+        "Slug": "uncharted-4-a-thiefs-end",
         "MyRating": 9.5,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2016-05-10",
-        "RawgId": "",
-        "Slug": "uncharted-4-a-thiefs-end"
+        "RawgInfo": {
+            "Id": 2462,
+            "Name": "Uncharted 4: A Thief\u2019s End",
+            "Slug": "uncharted-4-a-thiefs-end",
+            "Released": "2016-05-10",
+            "Description": "",
+            "Metacritic": 93,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.48
+        }
     },
     {
         "Name": "Pokemon Black 2",
+        "Slug": "pokemon-black-2",
         "MyRating": 9.5,
         "DateCompleted": "2025",
         "System": "BBD",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2012-10-07",
-        "RawgId": "",
-        "Slug": "pokemon-black-2"
+        "RawgInfo": {
+            "Id": 331454,
+            "Name": "Pok\u00E9mon Black 2, White 2",
+            "Slug": "pokemon-white-version-2",
+            "Released": "2012-10-07",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.32
+        }
     },
     {
         "Name": "Marvels Spider-Man Remastered",
+        "Slug": "marvels-spider-man-remastered",
         "MyRating": 9.5,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2020-11-12",
-        "RawgId": "",
-        "Slug": "marvels-spider-man-remastered"
+        "RawgInfo": {
+            "Id": 663742,
+            "Name": "Marvel\u0027s Spider-Man Remastered",
+            "Slug": "marvels-spider-man-remastered",
+            "Released": "2020-11-12",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Casual"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.47
+        }
     },
     {
         "Name": "Grand Theft Auto 4",
+        "Slug": "grand-theft-auto-4",
         "MyRating": 9.5,
         "DateCompleted": "2026",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2008-04-29",
-        "RawgId": "",
-        "Slug": "grand-theft-auto-4"
+        "RawgInfo": {
+            "Id": 4459,
+            "Name": "Grand Theft Auto IV",
+            "Slug": "grand-theft-auto-iv",
+            "Released": "2008-04-29",
+            "Description": "",
+            "Metacritic": 95,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.26
+        }
     },
     {
         "Name": "Blasphemous",
+        "Slug": "blasphemous",
         "MyRating": 9.4,
         "DateCompleted": "2022",
         "System": "PC/Deck",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2019-09-09",
-        "RawgId": "",
-        "Slug": "blasphemous"
+        "RawgInfo": {
+            "Id": 258322,
+            "Name": "Blasphemous",
+            "Slug": "blasphemous",
+            "Released": "2019-09-09",
+            "Description": "",
+            "Metacritic": 78,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.06
+        }
     },
     {
         "Name": "Crysis",
+        "Slug": "crysis",
         "MyRating": 9.4,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2007-11-12",
-        "RawgId": "",
-        "Slug": "crysis"
+        "RawgInfo": {
+            "Id": 4581,
+            "Name": "Crysis",
+            "Slug": "crysis",
+            "Released": "2007-11-12",
+            "Description": "",
+            "Metacritic": 91,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.01
+        }
     },
     {
         "Name": "Middle Earth Shadow of Mordor",
+        "Slug": "middle-earth-shadow-of-mordor",
         "MyRating": 9.3,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2014-09-30",
-        "RawgId": "",
-        "Slug": "middle-earth-shadow-of-mordor"
+        "RawgInfo": {
+            "Id": 11973,
+            "Name": "Middle-earth: Shadow of Mordor",
+            "Slug": "shadow-of-mordor",
+            "Released": "2014-09-30",
+            "Description": "",
+            "Metacritic": 85,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.91
+        }
     },
     {
         "Name": "Dead Space 2",
+        "Slug": "dead-space-2",
         "MyRating": 9.3,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2008-10-13",
-        "RawgId": "",
-        "Slug": "dead-space-2"
+        "RawgInfo": {
+            "Id": 4570,
+            "Name": "Dead Space (2008)",
+            "Slug": "dead-space",
+            "Released": "2008-10-13",
+            "Description": "",
+            "Metacritic": 86,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.39
+        }
     },
     {
         "Name": "SSX Tricky",
+        "Slug": "ssx-tricky",
         "MyRating": 9.3,
         "DateCompleted": "2016",
         "System": "GCB",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2012-02-28",
-        "RawgId": "",
-        "Slug": "ssx-tricky"
+        "RawgInfo": {
+            "Id": 4284,
+            "Name": "SSX",
+            "Slug": "ssx",
+            "Released": "2012-02-28",
+            "Description": "",
+            "Metacritic": 82,
+            "Genres": [
+                {
+                    "Name": "Arcade"
+                },
+                {
+                    "Name": "Sports"
+                }
+            ],
+            "Rating": 3.51
+        }
     },
     {
         "Name": "Darksiders Warmaster Edition",
+        "Slug": "darksiders-warmaster-edition",
         "MyRating": 9.3,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2016-11-29",
-        "RawgId": "",
-        "Slug": "darksiders-warmaster-edition"
+        "RawgInfo": {
+            "Id": 10548,
+            "Name": "Darksiders Warmastered Edition",
+            "Slug": "darksiders-warmastered-edition",
+            "Released": "2016-11-29",
+            "Description": "",
+            "Metacritic": 79,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.68
+        }
     },
     {
         "Name": "Nioh",
+        "Slug": "nioh",
         "MyRating": 9.2,
         "DateCompleted": "2022",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-02-07",
-        "RawgId": "",
-        "Slug": "nioh"
+        "RawgInfo": {
+            "Id": 401,
+            "Name": "Nioh",
+            "Slug": "nioh",
+            "Released": "2017-02-07",
+            "Description": "",
+            "Metacritic": 88,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.8
+        }
     },
     {
         "Name": "Assassin Creed: Origins",
+        "Slug": "assassin-creed-origins",
         "MyRating": 9.2,
         "DateCompleted": "2019",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-10-27",
-        "RawgId": "",
-        "Slug": "assassin-creed-origins"
+        "RawgInfo": {
+            "Id": 28153,
+            "Name": "Assassin\u0027s Creed Origins",
+            "Slug": "assassins-creed-origins",
+            "Released": "2017-10-27",
+            "Description": "",
+            "Metacritic": 81,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.96
+        }
     },
     {
         "Name": "Grim Dawn: Ashes of Malmouth DLC",
+        "Slug": "grim-dawn-ashes-of-malmouth-dlc",
         "MyRating": 9.2,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-10-11",
-        "RawgId": "",
-        "Slug": "grim-dawn-ashes-of-malmouth-dlc"
+        "RawgInfo": {
+            "Id": 799255,
+            "Name": "Grim Dawn - Ashes of Malmouth",
+            "Slug": "grim-dawn-ashes-of-malmouth",
+            "Released": "2017-10-11",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 0
+        }
     },
     {
         "Name": "Remember Me",
+        "Slug": "remember-me",
         "MyRating": 9.2,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2021-04-26",
-        "RawgId": "",
-        "Slug": "remember-me"
+        "RawgInfo": {
+            "Id": 596398,
+            "Name": "Remember-Me!",
+            "Slug": "remember-me-2",
+            "Released": "2021-04-26",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [],
+            "Rating": 0
+        }
     },
     {
         "Name": "Bioshock Infinite ",
+        "Slug": "bioshock-infinite",
         "MyRating": 9.2,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2013-07-30",
-        "RawgId": "",
-        "Slug": "bioshock-infinite"
+        "RawgInfo": {
+            "Id": 42301,
+            "Name": "Bioshock Infinite: Clash in the Clouds",
+            "Slug": "bioshock-infinite-clash-in-the-clouds",
+            "Released": "2013-07-30",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.25
+        }
     },
     {
         "Name": "Splinter Cell Blacklist",
+        "Slug": "splinter-cell-blacklist",
         "MyRating": 9.2,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2013-08-20",
-        "RawgId": "",
-        "Slug": "splinter-cell-blacklist"
+        "RawgInfo": {
+            "Id": 3933,
+            "Name": "Tom Clancy\u2019s Splinter Cell Blacklist",
+            "Slug": "tom-clancys-splinter-cell-blacklist",
+            "Released": "2013-08-20",
+            "Description": "",
+            "Metacritic": 81,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.08
+        }
     },
     {
         "Name": "Control",
+        "Slug": "control",
         "MyRating": 9,
         "DateCompleted": "2023",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2019-08-27",
-        "RawgId": "",
-        "Slug": "control"
+        "RawgInfo": {
+            "Id": 58812,
+            "Name": "Control",
+            "Slug": "control",
+            "Released": "2019-08-27",
+            "Description": "",
+            "Metacritic": 84,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.14
+        }
     },
     {
         "Name": "Remnant 2",
+        "Slug": "remnant-2",
         "MyRating": 9,
         "DateCompleted": "2023",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2023-07-21",
-        "RawgId": "",
-        "Slug": "remnant-2"
+        "RawgInfo": {
+            "Id": 892898,
+            "Name": "Remnant 2",
+            "Slug": "remnant-2",
+            "Released": "2023-07-21",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Arcade"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.74
+        }
     },
     {
         "Name": "Pokemon: Violet",
+        "Slug": "pokemon-violet",
         "MyRating": 9,
         "DateCompleted": "2022",
         "System": "PC/Ryujinx",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2022-11-18",
-        "RawgId": "",
-        "Slug": "pokemon-violet"
+        "RawgInfo": {
+            "Id": 747505,
+            "Name": "Pok\u00E9mon Scarlet and Violet",
+            "Slug": "pokemon-scarletviolet",
+            "Released": "2022-11-18",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.58
+        }
     },
     {
         "Name": "DARQ",
+        "Slug": "darq",
         "MyRating": 9,
         "DateCompleted": "2021",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2019-08-14",
-        "RawgId": "",
-        "Slug": "darq"
+        "RawgInfo": {
+            "Id": 264758,
+            "Name": "DARQ",
+            "Slug": "darq",
+            "Released": "2019-08-14",
+            "Description": "",
+            "Metacritic": 70,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.82
+        }
     },
     {
         "Name": "Forza Horizon 5",
+        "Slug": "forza-horizon-5",
         "MyRating": 9,
         "DateCompleted": "2021",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2021-11-08",
-        "RawgId": "",
-        "Slug": "forza-horizon-5"
+        "RawgInfo": {
+            "Id": 622492,
+            "Name": "Forza Horizon 5",
+            "Slug": "forza-horizon-5",
+            "Released": "2021-11-08",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Arcade"
+                }
+            ],
+            "Rating": 4.28
+        }
     },
     {
         "Name": "Bayonetta",
+        "Slug": "bayonetta",
         "MyRating": 9,
         "DateCompleted": "2021",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2009-06-23",
-        "RawgId": "",
-        "Slug": "bayonetta"
+        "RawgInfo": {
+            "Id": 4101,
+            "Name": "Bayonetta",
+            "Slug": "bayonetta",
+            "Released": "2009-06-23",
+            "Description": "",
+            "Metacritic": 90,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.3
+        }
     },
     {
         "Name": "Pokemon: Soulsilver",
+        "Slug": "pokemon-soulsilver",
         "MyRating": 9,
         "DateCompleted": "2017",
         "System": "DS",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2010-03-14",
-        "RawgId": "",
-        "Slug": "pokemon-soulsilver"
+        "RawgInfo": {
+            "Id": 26316,
+            "Name": "Pok\u00E9mon HeartGold, SoulSilver",
+            "Slug": "pokemon-heartgold-version",
+            "Released": "2010-03-14",
+            "Description": "",
+            "Metacritic": 87,
+            "Genres": [
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.4
+        }
     },
     {
         "Name": "Batman: Origins",
+        "Slug": "batman-origins",
         "MyRating": 9,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2013-10-25",
-        "RawgId": "",
-        "Slug": "batman-origins"
+        "RawgInfo": {
+            "Id": 2235,
+            "Name": "Batman: Arkham Origins",
+            "Slug": "batman-arkham-origins",
+            "Released": "2013-10-25",
+            "Description": "",
+            "Metacritic": 74,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.95
+        }
     },
     {
         "Name": "The Swapper",
+        "Slug": "the-swapper",
         "MyRating": 9,
         "DateCompleted": "2014",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2013-05-13",
-        "RawgId": "",
-        "Slug": "the-swapper"
+        "RawgInfo": {
+            "Id": 1789,
+            "Name": "The Swapper",
+            "Slug": "the-swapper",
+            "Released": "2013-05-13",
+            "Description": "",
+            "Metacritic": 87,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "Puzzle"
+                },
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Platformer"
+                }
+            ],
+            "Rating": 3.53
+        }
     },
     {
         "Name": "Horizon: Zero Dawn",
+        "Slug": "horizon-zero-dawn",
         "MyRating": 9,
         "DateCompleted": "2024",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-11-07",
-        "RawgId": "",
-        "Slug": "horizon-zero-dawn"
+        "RawgInfo": {
+            "Id": 254542,
+            "Name": "Horizon Zero Dawn: The Frozen Wilds",
+            "Slug": "horizon-zero-dawn-the-frozen-wilds",
+            "Released": "2017-11-07",
+            "Description": "",
+            "Metacritic": 83,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.38
+        }
     },
     {
         "Name": "Resident Evil 2 Remake",
+        "Slug": "resident-evil-2-remake",
         "MyRating": 9,
         "DateCompleted": "2024",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2019-01-25",
-        "RawgId": "",
-        "Slug": "resident-evil-2-remake"
+        "RawgInfo": {
+            "Id": 58813,
+            "Name": "Resident Evil 2",
+            "Slug": "resident-evil-2-2019",
+            "Released": "2019-01-25",
+            "Description": "",
+            "Metacritic": 91,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.51
+        }
     },
     {
         "Name": "Inside",
+        "Slug": "inside",
         "MyRating": 9,
         "DateCompleted": "2024",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2016-06-28",
-        "RawgId": "",
-        "Slug": "inside"
+        "RawgInfo": {
+            "Id": 1450,
+            "Name": "INSIDE",
+            "Slug": "inside",
+            "Released": "2016-06-28",
+            "Description": "",
+            "Metacritic": 87,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "Puzzle"
+                },
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Platformer"
+                }
+            ],
+            "Rating": 4.38
+        }
     },
     {
         "Name": "Jurassic World Evolution",
+        "Slug": "jurassic-world-evolution",
         "MyRating": 9,
         "DateCompleted": "2024",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2018-06-12",
-        "RawgId": "",
-        "Slug": "jurassic-world-evolution"
+        "RawgInfo": {
+            "Id": 58085,
+            "Name": "Jurassic World Evolution",
+            "Slug": "jurassic-world-evolution-2",
+            "Released": "2018-06-12",
+            "Description": "",
+            "Metacritic": 71,
+            "Genres": [
+                {
+                    "Name": "Strategy"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "Simulation"
+                }
+            ],
+            "Rating": 3.63
+        }
     },
     {
         "Name": "Death Stranding: Directors Cut",
+        "Slug": "death-stranding-directors-cut",
         "MyRating": 9,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2021-09-24",
-        "RawgId": "",
-        "Slug": "death-stranding-directors-cut"
+        "RawgInfo": {
+            "Id": 614964,
+            "Name": "Death Stranding Director\u0027s Cut",
+            "Slug": "death-stranding-directors-cut",
+            "Released": "2021-09-24",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.28
+        }
     },
     {
         "Name": "Planet Coaster",
+        "Slug": "planet-coaster",
         "MyRating": 8.9,
         "DateCompleted": "2018",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2016-11-17",
-        "RawgId": "",
-        "Slug": "planet-coaster"
+        "RawgInfo": {
+            "Id": 9644,
+            "Name": "Planet Coaster",
+            "Slug": "planet-coaster",
+            "Released": "2016-11-17",
+            "Description": "",
+            "Metacritic": 83,
+            "Genres": [
+                {
+                    "Name": "Strategy"
+                },
+                {
+                    "Name": "Simulation"
+                }
+            ],
+            "Rating": 3.78
+        }
     },
     {
         "Name": "F.E.A.R.",
+        "Slug": "f.e.a.r.",
         "MyRating": 8.9,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2005-10-18",
-        "RawgId": "",
-        "Slug": "f.e.a.r."
+        "RawgInfo": {
+            "Id": 19452,
+            "Name": "F.E.A.R.",
+            "Slug": "fear",
+            "Released": "2005-10-18",
+            "Description": "",
+            "Metacritic": 88,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.27
+        }
     },
     {
         "Name": "Dead Space",
+        "Slug": "dead-space",
         "MyRating": 8.9,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2008-10-13",
-        "RawgId": "",
-        "Slug": "dead-space"
+        "RawgInfo": {
+            "Id": 4570,
+            "Name": "Dead Space (2008)",
+            "Slug": "dead-space",
+            "Released": "2008-10-13",
+            "Description": "",
+            "Metacritic": 86,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.39
+        }
     },
     {
         "Name": "Rise of the Tomb Raider",
+        "Slug": "rise-of-the-tomb-raider",
         "MyRating": 8.9,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2015-11-10",
-        "RawgId": "",
-        "Slug": "rise-of-the-tomb-raider"
+        "RawgInfo": {
+            "Id": 7689,
+            "Name": "Rise of the Tomb Raider",
+            "Slug": "rise-of-the-tomb-raider",
+            "Released": "2015-11-10",
+            "Description": "",
+            "Metacritic": 86,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.04
+        }
     },
     {
         "Name": "Slay the Spire",
+        "Slug": "slay-the-spire",
         "MyRating": 8.9,
         "DateCompleted": "2026",
         "System": "PC/BBD",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2019-01-22",
-        "RawgId": "",
-        "Slug": "slay-the-spire"
+        "RawgInfo": {
+            "Id": 28121,
+            "Name": "Slay the Spire",
+            "Slug": "slay-the-spire",
+            "Released": "2019-01-22",
+            "Description": "",
+            "Metacritic": 86,
+            "Genres": [
+                {
+                    "Name": "Card"
+                },
+                {
+                    "Name": "Strategy"
+                },
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.35
+        }
     },
     {
         "Name": "Prince of Persia: The Lost Crown",
+        "Slug": "prince-of-persia-the-lost-crown",
         "MyRating": 8.9,
         "DateCompleted": "2026",
         "System": "BBD/PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2024-01-18",
-        "RawgId": "",
-        "Slug": "prince-of-persia-the-lost-crown"
+        "RawgInfo": {
+            "Id": 962011,
+            "Name": "Prince of Persia: The Lost Crown",
+            "Slug": "prince-of-persia-the-lost-crown",
+            "Released": "2024-01-18",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.97
+        }
     },
     {
         "Name": "Just Cause 3",
+        "Slug": "just-cause-3",
         "MyRating": 8.8,
         "DateCompleted": "2018",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-07-20",
-        "RawgId": "",
-        "Slug": "just-cause-3"
+        "RawgInfo": {
+            "Id": 44469,
+            "Name": "Just Cause 3: Multiplayer Mod",
+            "Slug": "just-cause-3-multiplayer-mod",
+            "Released": "2017-07-20",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Massively Multiplayer"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 2.55
+        }
     },
     {
         "Name": "Grim Dawn",
+        "Slug": "grim-dawn",
         "MyRating": 8.8,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2016-02-25",
-        "RawgId": "",
-        "Slug": "grim-dawn"
+        "RawgInfo": {
+            "Id": 9465,
+            "Name": "Grim Dawn",
+            "Slug": "grim-dawn",
+            "Released": "2016-02-25",
+            "Description": "",
+            "Metacritic": 83,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.96
+        }
     },
     {
         "Name": "Far Cry 3",
+        "Slug": "far-cry-3",
         "MyRating": 8.8,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2004-03-22",
-        "RawgId": "",
-        "Slug": "far-cry-3"
+        "RawgInfo": {
+            "Id": 19560,
+            "Name": "Far Cry",
+            "Slug": "far-cry",
+            "Released": "2004-03-22",
+            "Description": "",
+            "Metacritic": 89,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.9
+        }
     },
     {
         "Name": "Dragon Age: Inquisition DLC",
+        "Slug": "dragon-age-inquisition-dlc",
         "MyRating": 8.8,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2014-11-18",
-        "RawgId": "",
-        "Slug": "dragon-age-inquisition-dlc"
+        "RawgInfo": {
+            "Id": 28559,
+            "Name": "Dragon Age: Inquisition",
+            "Slug": "dragon-age-inquisition",
+            "Released": "2014-11-18",
+            "Description": "",
+            "Metacritic": 86,
+            "Genres": [
+                {
+                    "Name": "Strategy"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.79
+        }
     },
     {
         "Name": "Dark Souls 3 ",
+        "Slug": "dark-souls-3",
         "MyRating": 8.8,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2009-12-03",
-        "RawgId": "",
-        "Slug": "dark-souls-3"
+        "RawgInfo": {
+            "Id": 22959,
+            "Name": "Dark Fall 3: Lost Souls",
+            "Slug": "dark-fall-3-lost-souls",
+            "Released": "2009-12-03",
+            "Description": "",
+            "Metacritic": 75,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                }
+            ],
+            "Rating": 2.47
+        }
     },
     {
         "Name": "Batman: Arkham City",
+        "Slug": "batman-arkham-city",
         "MyRating": 8.8,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2011-10-18",
-        "RawgId": "",
-        "Slug": "batman-arkham-city"
+        "RawgInfo": {
+            "Id": 28623,
+            "Name": "Batman: Arkham City",
+            "Slug": "batman-arkham-city-2",
+            "Released": "2011-10-18",
+            "Description": "",
+            "Metacritic": 94,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.4
+        }
     },
     {
         "Name": "Portal 2 ",
+        "Slug": "portal-2",
         "MyRating": 8.8,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2004-08-11",
-        "RawgId": "",
-        "Slug": "portal-2"
+        "RawgInfo": {
+            "Id": 34119,
+            "Name": "Postal 2: Apocalypse Weekend",
+            "Slug": "postal-2-apocalypse-weekend",
+            "Released": "2004-08-11",
+            "Description": "",
+            "Metacritic": 45,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.66
+        }
     },
     {
         "Name": "Sleeping Dogs",
+        "Slug": "sleeping-dogs",
         "MyRating": 8.8,
         "DateCompleted": "2014",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2014-10-08",
-        "RawgId": "",
-        "Slug": "sleeping-dogs"
+        "RawgInfo": {
+            "Id": 16112,
+            "Name": "Sleeping Dogs: Definitive Edition",
+            "Slug": "sleeping-dogs-definitive-edition",
+            "Released": "2014-10-08",
+            "Description": "",
+            "Metacritic": 76,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.15
+        }
     },
     {
         "Name": "Papo \u0026 Yo",
+        "Slug": "papo-yo",
         "MyRating": 8.8,
         "DateCompleted": "2014",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2012-08-14",
-        "RawgId": "",
-        "Slug": "papo-yo"
+        "RawgInfo": {
+            "Id": 4298,
+            "Name": "Papo \u0026 Yo",
+            "Slug": "papo-yo",
+            "Released": "2012-08-14",
+            "Description": "",
+            "Metacritic": 70,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "Puzzle"
+                }
+            ],
+            "Rating": 3.38
+        }
     },
     {
         "Name": "Marvels Guardians of the Galaxy",
+        "Slug": "marvels-guardians-of-the-galaxy",
         "MyRating": 8.8,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2021-10-26",
-        "RawgId": "",
-        "Slug": "marvels-guardians-of-the-galaxy"
+        "RawgInfo": {
+            "Id": 616765,
+            "Name": "Marvel\u0027s Guardians of the Galaxy",
+            "Slug": "guardians-of-the-galaxy",
+            "Released": "2021-10-26",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.29
+        }
     },
     {
         "Name": "Gris",
+        "Slug": "gris",
         "MyRating": 8.8,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2018-12-13",
-        "RawgId": "",
-        "Slug": "gris"
+        "RawgInfo": {
+            "Id": 59313,
+            "Name": "Gris",
+            "Slug": "gris",
+            "Released": "2018-12-13",
+            "Description": "",
+            "Metacritic": 83,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Puzzle"
+                }
+            ],
+            "Rating": 4.2
+        }
     },
     {
         "Name": "Tainted Grail: Fall of Avalon",
+        "Slug": "tainted-grail-fall-of-avalon",
         "MyRating": 8.8,
         "DateCompleted": "2026",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2025-05-23",
-        "RawgId": "",
-        "Slug": "tainted-grail-fall-of-avalon"
+        "RawgInfo": {
+            "Id": 554786,
+            "Name": "Tainted Grail: The Fall of Avalon",
+            "Slug": "tainted-grail-the-fall-of-avalon",
+            "Released": "2025-05-23",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.94
+        }
     },
     {
         "Name": "Stellar Blade",
+        "Slug": "stellar-blade",
         "MyRating": 8.8,
         "DateCompleted": "2026",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2024-04-26",
-        "RawgId": "",
-        "Slug": "stellar-blade"
+        "RawgInfo": {
+            "Id": 476122,
+            "Name": "Stellar Blade",
+            "Slug": "project-eve-tba",
+            "Released": "2024-04-26",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.22
+        }
     },
     {
         "Name": "Pokemon: Platinum",
+        "Slug": "pokemon-platinum",
         "MyRating": 8.7,
         "DateCompleted": "2017",
         "System": "DS",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2009-03-22",
-        "RawgId": "",
-        "Slug": "pokemon-platinum"
+        "RawgInfo": {
+            "Id": 25856,
+            "Name": "Pok\u00E9mon Platinum",
+            "Slug": "pokemon-platinum",
+            "Released": "2009-03-22",
+            "Description": "",
+            "Metacritic": 83,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.39
+        }
     },
     {
         "Name": "Transistor",
+        "Slug": "transistor",
         "MyRating": 8.7,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2014-05-20",
-        "RawgId": "",
-        "Slug": "transistor"
+        "RawgInfo": {
+            "Id": 1010,
+            "Name": "Transistor",
+            "Slug": "transistor",
+            "Released": "2014-05-20",
+            "Description": "",
+            "Metacritic": 83,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.17
+        }
     },
     {
         "Name": "Dragon Age: Inquisition",
+        "Slug": "dragon-age-inquisition",
         "MyRating": 8.7,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2014-11-18",
-        "RawgId": "",
-        "Slug": "dragon-age-inquisition"
+        "RawgInfo": {
+            "Id": 28559,
+            "Name": "Dragon Age: Inquisition",
+            "Slug": "dragon-age-inquisition",
+            "Released": "2014-11-18",
+            "Description": "",
+            "Metacritic": 86,
+            "Genres": [
+                {
+                    "Name": "Strategy"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.79
+        }
     },
     {
         "Name": "Bioshock",
+        "Slug": "bioshock",
         "MyRating": 8.7,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2007-08-21",
-        "RawgId": "",
-        "Slug": "bioshock"
+        "RawgInfo": {
+            "Id": 4286,
+            "Name": "BioShock",
+            "Slug": "bioshock",
+            "Released": "2007-08-21",
+            "Description": "",
+            "Metacritic": 96,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.36
+        }
     },
     {
         "Name": "Diablo 2: Resurrected",
+        "Slug": "diablo-2-resurrected",
         "MyRating": 8.6,
         "DateCompleted": "2022",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2021-09-23",
-        "RawgId": "",
-        "Slug": "diablo-2-resurrected"
+        "RawgInfo": {
+            "Id": 560733,
+            "Name": "Diablo II: Resurrected",
+            "Slug": "diablo-ii-resurrected",
+            "Released": "2021-09-23",
+            "Description": "",
+            "Metacritic": 80,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.1
+        }
     },
     {
         "Name": "Far Cry Primal",
+        "Slug": "far-cry-primal",
         "MyRating": 8.6,
         "DateCompleted": "2019",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2004-03-22",
-        "RawgId": "",
-        "Slug": "far-cry-primal"
+        "RawgInfo": {
+            "Id": 19560,
+            "Name": "Far Cry",
+            "Slug": "far-cry",
+            "Released": "2004-03-22",
+            "Description": "",
+            "Metacritic": 89,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.9
+        }
     },
     {
         "Name": "Hellbade: Senua\u2019s Sacrifice",
+        "Slug": "hellbade-senuas-sacrifice",
         "MyRating": 8.6,
         "DateCompleted": "2019",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-08-07",
-        "RawgId": "",
-        "Slug": "hellbade-senuas-sacrifice"
+        "RawgInfo": {
+            "Id": 12536,
+            "Name": "Hellblade: Senua\u0027s Sacrifice",
+            "Slug": "hellblade-senuas-sacrifice",
+            "Released": "2017-08-07",
+            "Description": "",
+            "Metacritic": 83,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.22
+        }
     },
     {
         "Name": "Punch Club",
+        "Slug": "punch-club",
         "MyRating": 8.6,
         "DateCompleted": "2018",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2023-07-20",
-        "RawgId": "",
-        "Slug": "punch-club"
+        "RawgInfo": {
+            "Id": 928832,
+            "Name": "Punch Club 2: Fast Forward",
+            "Slug": "punch-club-2-fast-forward",
+            "Released": "2023-07-20",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "RPG"
+                },
+                {
+                    "Name": "Strategy"
+                },
+                {
+                    "Name": "Simulation"
+                },
+                {
+                    "Name": "Sports"
+                },
+                {
+                    "Name": "Indie"
+                }
+            ],
+            "Rating": 3.59
+        }
     },
     {
         "Name": "A Hat In Time",
+        "Slug": "a-hat-in-time",
         "MyRating": 8.6,
         "DateCompleted": "2018",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-10-05",
-        "RawgId": "",
-        "Slug": "a-hat-in-time"
+        "RawgInfo": {
+            "Id": 11164,
+            "Name": "A Hat in Time",
+            "Slug": "a-hat-in-time",
+            "Released": "2017-10-05",
+            "Description": "",
+            "Metacritic": 77,
+            "Genres": [
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.31
+        }
     },
     {
         "Name": "Life Is Strange",
+        "Slug": "life-is-strange",
         "MyRating": 8.6,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2015-01-29",
-        "RawgId": "",
-        "Slug": "life-is-strange"
+        "RawgInfo": {
+            "Id": 3439,
+            "Name": "Life is Strange",
+            "Slug": "life-is-strange-episode-1-2",
+            "Released": "2015-01-29",
+            "Description": "",
+            "Metacritic": 83,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                }
+            ],
+            "Rating": 4.12
+        }
     },
     {
         "Name": "Dragon Quest Monsters \u2013 Joker",
+        "Slug": "dragon-quest-monsters-joker",
         "MyRating": 8.6,
         "DateCompleted": "2016",
         "System": "DS",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2007-11-06",
-        "RawgId": "",
-        "Slug": "dragon-quest-monsters-joker"
+        "RawgInfo": {
+            "Id": 25300,
+            "Name": "Dragon Quest Monsters: Joker",
+            "Slug": "dragon-quest-monsters-joker",
+            "Released": "2007-11-06",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [],
+            "Rating": 3.56
+        }
     },
     {
         "Name": "Saints Row 4",
+        "Slug": "saints-row-4",
         "MyRating": 8.6,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2013-08-21",
-        "RawgId": "",
-        "Slug": "saints-row-4"
+        "RawgInfo": {
+            "Id": 7407,
+            "Name": "Saints Row IV: Re-Elected",
+            "Slug": "saints-row-iv-re-elected",
+            "Released": "2013-08-21",
+            "Description": "",
+            "Metacritic": 73,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.74
+        }
     },
     {
         "Name": "Enslaved: Odyssey to the West",
+        "Slug": "enslaved-odyssey-to-the-west",
         "MyRating": 8.6,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2010-10-05",
-        "RawgId": "",
-        "Slug": "enslaved-odyssey-to-the-west"
+        "RawgInfo": {
+            "Id": 39727,
+            "Name": "Enslaved: Odyssey to the West",
+            "Slug": "enslaved",
+            "Released": "2010-10-05",
+            "Description": "",
+            "Metacritic": 77,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.02
+        }
     },
     {
         "Name": "Super Meat Boy",
+        "Slug": "super-meat-boy",
         "MyRating": 8.6,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2010-10-20",
-        "RawgId": "",
-        "Slug": "super-meat-boy"
+        "RawgInfo": {
+            "Id": 3144,
+            "Name": "Super Meat Boy",
+            "Slug": "super-meat-boy",
+            "Released": "2010-10-20",
+            "Description": "",
+            "Metacritic": 87,
+            "Genres": [
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Indie"
+                }
+            ],
+            "Rating": 3.98
+        }
     },
     {
         "Name": "Batman: Arkham Asylum",
+        "Slug": "batman-arkham-asylum",
         "MyRating": 8.6,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2009-08-25",
-        "RawgId": "",
-        "Slug": "batman-arkham-asylum"
+        "RawgInfo": {
+            "Id": 4123,
+            "Name": "Batman: Arkham Asylum",
+            "Slug": "batman-arkham-asylum",
+            "Released": "2009-08-25",
+            "Description": "",
+            "Metacritic": 91,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.39
+        }
     },
     {
         "Name": "Call of Juarez Gunslinger",
+        "Slug": "call-of-juarez-gunslinger",
         "MyRating": 8.6,
         "DateCompleted": "2014",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2013-05-14",
-        "RawgId": "",
-        "Slug": "call-of-juarez-gunslinger"
+        "RawgInfo": {
+            "Id": 4013,
+            "Name": "Call of Juarez: Gunslinger",
+            "Slug": "call-of-juarez-gunslinger",
+            "Released": "2013-05-14",
+            "Description": "",
+            "Metacritic": 79,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.81
+        }
     },
     {
         "Name": "Destroy All Humans",
+        "Slug": "destroy-all-humans",
         "MyRating": 8.6,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2005-05-26",
-        "RawgId": "",
-        "Slug": "destroy-all-humans"
+        "RawgInfo": {
+            "Id": 1012,
+            "Name": "Destroy All Humans!",
+            "Slug": "destroy-all-humans",
+            "Released": "2005-05-26",
+            "Description": "",
+            "Metacritic": 70,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.73
+        }
     },
     {
         "Name": "Watch Dogs 2",
+        "Slug": "watch-dogs-2",
         "MyRating": 8.5,
         "DateCompleted": "2020",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2020-10-29",
-        "RawgId": "",
-        "Slug": "watch-dogs-2"
+        "RawgInfo": {
+            "Id": 324992,
+            "Name": "Watch Dogs: Legion",
+            "Slug": "watch-dogs-legion",
+            "Released": "2020-10-29",
+            "Description": "",
+            "Metacritic": 72,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.12
+        }
     },
     {
         "Name": "Warhammer: Vermintide 2",
+        "Slug": "warhammer-vermintide-2",
         "MyRating": 8.5,
         "DateCompleted": "2018",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2018-03-08",
-        "RawgId": "",
-        "Slug": "warhammer-vermintide-2"
+        "RawgInfo": {
+            "Id": 45969,
+            "Name": "Warhammer: Vermintide 2",
+            "Slug": "warhammer-vermintide-2",
+            "Released": "2018-03-08",
+            "Description": "",
+            "Metacritic": 82,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.61
+        }
     },
     {
         "Name": "Burnout Paradise",
+        "Slug": "burnout-paradise",
         "MyRating": 8.5,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2008-01-22",
-        "RawgId": "",
-        "Slug": "burnout-paradise"
+        "RawgInfo": {
+            "Id": 5390,
+            "Name": "Burnout Paradise",
+            "Slug": "burnout-paradise",
+            "Released": "2008-01-22",
+            "Description": "",
+            "Metacritic": 87,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Arcade"
+                }
+            ],
+            "Rating": 4.09
+        }
     },
     {
         "Name": "Grid",
+        "Slug": "grid",
         "MyRating": 8.5,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2019-10-10",
-        "RawgId": "",
-        "Slug": "grid"
+        "RawgInfo": {
+            "Id": 321226,
+            "Name": "GRID (2019)",
+            "Slug": "grid-3",
+            "Released": "2019-10-10",
+            "Description": "",
+            "Metacritic": 75,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "Casual"
+                },
+                {
+                    "Name": "Arcade"
+                },
+                {
+                    "Name": "Sports"
+                }
+            ],
+            "Rating": 3.32
+        }
     },
     {
         "Name": "Super Mario Galaxy",
+        "Slug": "super-mario-galaxy",
         "MyRating": 8.5,
         "DateCompleted": "2014",
         "System": "Wii",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "1994-01-21",
-        "RawgId": "",
-        "Slug": "super-mario-galaxy"
+        "RawgInfo": {
+            "Id": 27150,
+            "Name": "Wario Land: Super Mario Land 3",
+            "Slug": "wario-land-super-mario-land-3",
+            "Released": "1994-01-21",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [],
+            "Rating": 4.22
+        }
     },
     {
         "Name": "Dirt 2 ",
+        "Slug": "dirt-2",
         "MyRating": 8.5,
         "DateCompleted": "2014",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2009-09-08",
-        "RawgId": "",
-        "Slug": "dirt-2"
+        "RawgInfo": {
+            "Id": 5543,
+            "Name": "Colin McRae: DiRT 2",
+            "Slug": "dirt-2",
+            "Released": "2009-09-08",
+            "Description": "",
+            "Metacritic": 88,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Arcade"
+                }
+            ],
+            "Rating": 4.04
+        }
     },
     {
         "Name": "Black Myth Wukong",
+        "Slug": "black-myth-wukong",
         "MyRating": 8.5,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2024-08-20",
-        "RawgId": "",
-        "Slug": "black-myth-wukong"
+        "RawgInfo": {
+            "Id": 481913,
+            "Name": "Black Myth: Wukong",
+            "Slug": "black-myth-wu-kong",
+            "Released": "2024-08-20",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.3
+        }
     },
     {
         "Name": "Dead Space Remake",
+        "Slug": "dead-space-remake",
         "MyRating": 8.5,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2008-10-13",
-        "RawgId": "",
-        "Slug": "dead-space-remake"
+        "RawgInfo": {
+            "Id": 4570,
+            "Name": "Dead Space (2008)",
+            "Slug": "dead-space",
+            "Released": "2008-10-13",
+            "Description": "",
+            "Metacritic": 86,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.39
+        }
     },
     {
         "Name": "South of Midnight",
+        "Slug": "south-of-midnight",
         "MyRating": 8.5,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2025-04-08",
-        "RawgId": "",
-        "Slug": "south-of-midnight"
+        "RawgInfo": {
+            "Id": 962986,
+            "Name": "South of Midnight",
+            "Slug": "south-of-midnight",
+            "Released": "2025-04-08",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.63
+        }
     },
     {
         "Name": "Ghost of Tsushima ",
+        "Slug": "ghost-of-tsushima",
         "MyRating": 8.5,
         "DateCompleted": "2026",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2021-08-20",
-        "RawgId": "",
-        "Slug": "ghost-of-tsushima"
+        "RawgInfo": {
+            "Id": 638650,
+            "Name": "Ghost of Tsushima Director\u0027s Cut",
+            "Slug": "ghost-of-tsushima-directors-cut",
+            "Released": "2021-08-20",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.58
+        }
     },
     {
         "Name": "Tape to Tape",
+        "Slug": "tape-to-tape",
         "MyRating": 8.5,
         "DateCompleted": "2026",
         "System": "PC/BBD",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2022-12-01",
-        "RawgId": "",
-        "Slug": "tape-to-tape"
+        "RawgInfo": {
+            "Id": 888150,
+            "Name": "Magic Makers - Tape Taupe",
+            "Slug": "magic-makers-tape-taupe",
+            "Released": "2022-12-01",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Educational"
+                }
+            ],
+            "Rating": 0
+        }
     },
     {
         "Name": "Super Woden: Rally Edge",
+        "Slug": "super-woden-rally-edge",
         "MyRating": 8.5,
         "DateCompleted": "2026",
         "System": "BBD",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2026-01-15",
-        "RawgId": "",
-        "Slug": "super-woden-rally-edge"
+        "RawgInfo": {
+            "Id": 1015725,
+            "Name": "SUPER WODEN RALLY EDGE",
+            "Slug": "super-woden-rally-edge",
+            "Released": "2026-01-15",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                }
+            ],
+            "Rating": 0
+        }
     },
     {
         "Name": "Scorn",
+        "Slug": "scorn",
         "MyRating": 8.5,
         "DateCompleted": "2026",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2022-10-14",
-        "RawgId": "",
-        "Slug": "scorn"
+        "RawgInfo": {
+            "Id": 46220,
+            "Name": "Scorn",
+            "Slug": "scorn-episode-one",
+            "Released": "2022-10-14",
+            "Description": "",
+            "Metacritic": 67,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.42
+        }
     },
     {
         "Name": "Shadow Warrior",
+        "Slug": "shadow-warrior",
         "MyRating": 8.4,
         "DateCompleted": "2019",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "1997-05-13",
-        "RawgId": "",
-        "Slug": "shadow-warrior"
+        "RawgInfo": {
+            "Id": 15317,
+            "Name": "Shadow Warrior",
+            "Slug": "shadow-warrior-classic-redux",
+            "Released": "1997-05-13",
+            "Description": "",
+            "Metacritic": 73,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.35
+        }
     },
     {
         "Name": "Far Cry 4",
+        "Slug": "far-cry-4",
         "MyRating": 8.4,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2004-03-22",
-        "RawgId": "",
-        "Slug": "far-cry-4"
+        "RawgInfo": {
+            "Id": 19560,
+            "Name": "Far Cry",
+            "Slug": "far-cry",
+            "Released": "2004-03-22",
+            "Description": "",
+            "Metacritic": 89,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.9
+        }
     },
     {
         "Name": "Ghost Recon Future Soldier",
+        "Slug": "ghost-recon-future-soldier",
         "MyRating": 8.4,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2012-05-22",
-        "RawgId": "",
-        "Slug": "ghost-recon-future-soldier"
+        "RawgInfo": {
+            "Id": 4345,
+            "Name": "Tom Clancy\u0027s Ghost Recon: Future Soldier",
+            "Slug": "ghost-recon-future-soldier",
+            "Released": "2012-05-22",
+            "Description": "",
+            "Metacritic": 71,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.66
+        }
     },
     {
         "Name": "Spyro: Reignited Trilogy",
+        "Slug": "spyro-reignited-trilogy",
         "MyRating": 8.3,
         "DateCompleted": "2020",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2018-11-13",
-        "RawgId": "",
-        "Slug": "spyro-reignited-trilogy"
+        "RawgInfo": {
+            "Id": 58133,
+            "Name": "Spyro Reignited Trilogy",
+            "Slug": "spyro-reignited-trilogy",
+            "Released": "2018-11-13",
+            "Description": "",
+            "Metacritic": 80,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.13
+        }
     },
     {
         "Name": "DMC: Devil May Cry",
+        "Slug": "dmc-devil-may-cry",
         "MyRating": 8.3,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2013-01-15",
-        "RawgId": "",
-        "Slug": "dmc-devil-may-cry"
+        "RawgInfo": {
+            "Id": 18241,
+            "Name": "DmC: Devil May Cry",
+            "Slug": "dmc",
+            "Released": "2013-01-15",
+            "Description": "",
+            "Metacritic": 85,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.02
+        }
     },
     {
         "Name": "Grid 2",
+        "Slug": "grid-2",
         "MyRating": 8.3,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2014-09-23",
-        "RawgId": "",
-        "Slug": "grid-2"
+        "RawgInfo": {
+            "Id": 3579,
+            "Name": "Defense Grid 2",
+            "Slug": "defense-grid-2",
+            "Released": "2014-09-23",
+            "Description": "",
+            "Metacritic": 81,
+            "Genres": [
+                {
+                    "Name": "Strategy"
+                },
+                {
+                    "Name": "Indie"
+                }
+            ],
+            "Rating": 3.15
+        }
     },
     {
         "Name": "Hitman: Absolution",
+        "Slug": "hitman-absolution",
         "MyRating": 8.3,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2012-11-19",
-        "RawgId": "",
-        "Slug": "hitman-absolution"
+        "RawgInfo": {
+            "Id": 5583,
+            "Name": "Hitman: Absolution",
+            "Slug": "hitman-absolution",
+            "Released": "2012-11-19",
+            "Description": "",
+            "Metacritic": 79,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.76
+        }
     },
     {
         "Name": "Moonlighter",
+        "Slug": "moonlighter",
         "MyRating": 8.3,
         "DateCompleted": "2026",
         "System": "BBD",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2018-05-28",
-        "RawgId": "",
-        "Slug": "moonlighter"
+        "RawgInfo": {
+            "Id": 22162,
+            "Name": "Moonlighter",
+            "Slug": "moonlighter",
+            "Released": "2018-05-28",
+            "Description": "",
+            "Metacritic": 82,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.75
+        }
     },
     {
         "Name": "Dragons Dogma: Dark Arisen",
+        "Slug": "dragons-dogma-dark-arisen",
         "MyRating": 8.2,
         "DateCompleted": "2020",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2013-04-23",
-        "RawgId": "",
-        "Slug": "dragons-dogma-dark-arisen"
+        "RawgInfo": {
+            "Id": 4032,
+            "Name": "Dragon\u0027s Dogma: Dark Arisen",
+            "Slug": "dragons-dogma-dark-arisen",
+            "Released": "2013-04-23",
+            "Description": "",
+            "Metacritic": 81,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.92
+        }
     },
     {
         "Name": "Need For Speed: The Run",
+        "Slug": "need-for-speed-the-run",
         "MyRating": 8.2,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2011-11-15",
-        "RawgId": "",
-        "Slug": "need-for-speed-the-run"
+        "RawgInfo": {
+            "Id": 4385,
+            "Name": "Need for Speed: The Run",
+            "Slug": "need-for-speed-the-run",
+            "Released": "2011-11-15",
+            "Description": "",
+            "Metacritic": 66,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Arcade"
+                }
+            ],
+            "Rating": 3.74
+        }
     },
     {
         "Name": "Half-Life 2",
+        "Slug": "half-life-2",
         "MyRating": 8.2,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2004-11-16",
-        "RawgId": "",
-        "Slug": "half-life-2"
+        "RawgInfo": {
+            "Id": 13537,
+            "Name": "Half-Life 2",
+            "Slug": "half-life-2",
+            "Released": "2004-11-16",
+            "Description": "",
+            "Metacritic": 96,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.47
+        }
     },
     {
         "Name": "Spec Ops: The Line",
+        "Slug": "spec-ops-the-line",
         "MyRating": 8.2,
         "DateCompleted": "2014",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2012-06-26",
-        "RawgId": "",
-        "Slug": "spec-ops-the-line"
+        "RawgInfo": {
+            "Id": 4332,
+            "Name": "Spec Ops: The Line",
+            "Slug": "spec-ops-the-line",
+            "Released": "2012-06-26",
+            "Description": "",
+            "Metacritic": 76,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.1
+        }
     },
     {
         "Name": "Trine",
+        "Slug": "trine",
         "MyRating": 8.2,
         "DateCompleted": "2013",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2009-07-03",
-        "RawgId": "",
-        "Slug": "trine"
+        "RawgInfo": {
+            "Id": 5196,
+            "Name": "Trine",
+            "Slug": "trine",
+            "Released": "2009-07-03",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Arcade"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.91
+        }
     },
     {
         "Name": "Torchlight 2",
+        "Slug": "torchlight-2",
         "MyRating": 8.1,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2022-10-11",
-        "RawgId": "",
-        "Slug": "torchlight-2"
+        "RawgInfo": {
+            "Id": 864991,
+            "Name": "Torchlight: Infinite",
+            "Slug": "torchlight-infinite",
+            "Released": "2022-10-11",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 2.66
+        }
     },
     {
         "Name": "Dark Void",
+        "Slug": "dark-void",
         "MyRating": 8.1,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2010-01-19",
-        "RawgId": "",
-        "Slug": "dark-void"
+        "RawgInfo": {
+            "Id": 19520,
+            "Name": "Dark Void",
+            "Slug": "dark-void",
+            "Released": "2010-01-19",
+            "Description": "",
+            "Metacritic": 57,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 2.89
+        }
     },
     {
         "Name": "Mass Effect 2",
+        "Slug": "mass-effect-2",
         "MyRating": 8.1,
         "DateCompleted": "2013",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2010-03-23",
-        "RawgId": "",
-        "Slug": "mass-effect-2"
+        "RawgInfo": {
+            "Id": 394390,
+            "Name": "Mass Effect 2: Firewalker",
+            "Slug": "mass-effect-2-firewalker",
+            "Released": "2010-03-23",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.27
+        }
     },
     {
         "Name": "God of War (2018)",
+        "Slug": "god-of-war-2018",
         "MyRating": 8,
         "DateCompleted": "2023",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2018-04-20",
-        "RawgId": "",
-        "Slug": "god-of-war-2018"
+        "RawgInfo": {
+            "Id": 58175,
+            "Name": "God of War (2018)",
+            "Slug": "god-of-war-2",
+            "Released": "2018-04-20",
+            "Description": "",
+            "Metacritic": 94,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.54
+        }
     },
     {
         "Name": "Marvel Ultimate Alliance: 3",
+        "Slug": "marvel-ultimate-alliance-3",
         "MyRating": 8,
         "DateCompleted": "2023",
         "System": "PC/Yuzu",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2006-10-24",
-        "RawgId": "",
-        "Slug": "marvel-ultimate-alliance-3"
+        "RawgInfo": {
+            "Id": 37357,
+            "Name": "Marvel Ultimate Alliance",
+            "Slug": "marvel-ult-alliance",
+            "Released": "2006-10-24",
+            "Description": "",
+            "Metacritic": 81,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                },
+                {
+                    "Name": "Fighting"
+                },
+                {
+                    "Name": "Arcade"
+                }
+            ],
+            "Rating": 3.92
+        }
     },
     {
         "Name": "Mario: Rabbids",
+        "Slug": "mario-rabbids",
         "MyRating": 8,
         "DateCompleted": "2023",
         "System": "PC/Ryujinx",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-08-29",
-        "RawgId": "",
-        "Slug": "mario-rabbids"
+        "RawgInfo": {
+            "Id": 29185,
+            "Name": "Mario \u002B Rabbids Kingdom Battle",
+            "Slug": "mario-rabbids-kingdom-battle",
+            "Released": "2017-08-29",
+            "Description": "",
+            "Metacritic": 85,
+            "Genres": [
+                {
+                    "Name": "Strategy"
+                },
+                {
+                    "Name": "Adventure"
+                }
+            ],
+            "Rating": 4.11
+        }
     },
     {
         "Name": "Juiced 2",
+        "Slug": "juiced-2",
         "MyRating": 8,
         "DateCompleted": "2022",
         "System": "PC/RPC3",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2007-09-17",
-        "RawgId": "",
-        "Slug": "juiced-2"
+        "RawgInfo": {
+            "Id": 25212,
+            "Name": "Juiced 2: Hot Import Nights",
+            "Slug": "juiced-2-hot-import-nights",
+            "Released": "2007-09-17",
+            "Description": "",
+            "Metacritic": 67,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Arcade"
+                }
+            ],
+            "Rating": 3.23
+        }
     },
     {
         "Name": "The Darkness II",
+        "Slug": "the-darkness-ii",
         "MyRating": 8,
         "DateCompleted": "2021",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2019-08-02",
-        "RawgId": "",
-        "Slug": "the-darkness-ii"
+        "RawgInfo": {
+            "Id": 12351,
+            "Name": "The Church in the Darkness",
+            "Slug": "the-church-in-the-darkness",
+            "Released": "2019-08-02",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 2.75
+        }
     },
     {
         "Name": "Dirt 4",
+        "Slug": "dirt-4",
         "MyRating": 8,
         "DateCompleted": "2020",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-06-06",
-        "RawgId": "",
-        "Slug": "dirt-4"
+        "RawgInfo": {
+            "Id": 21,
+            "Name": "DiRT 4",
+            "Slug": "dirt-4",
+            "Released": "2017-06-06",
+            "Description": "",
+            "Metacritic": 78,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Sports"
+                }
+            ],
+            "Rating": 3.6
+        }
     },
     {
         "Name": "Mark of the Ninja",
+        "Slug": "mark-of-the-ninja",
         "MyRating": 8,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2018-10-08",
-        "RawgId": "",
-        "Slug": "mark-of-the-ninja"
+        "RawgInfo": {
+            "Id": 57896,
+            "Name": "Mark of the Ninja: Remastered",
+            "Slug": "mark-of-the-ninja-remastered",
+            "Released": "2018-10-08",
+            "Description": "",
+            "Metacritic": 89,
+            "Genres": [
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.15
+        }
     },
     {
         "Name": "BloodStained: Ritual of the Night",
+        "Slug": "bloodstained-ritual-of-the-night",
         "MyRating": 8,
         "DateCompleted": "2024",
         "System": "PC/BBD",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2019-06-18",
-        "RawgId": "",
-        "Slug": "bloodstained-ritual-of-the-night"
+        "RawgInfo": {
+            "Id": 61176,
+            "Name": "Bloodstained: Ritual of the Night",
+            "Slug": "bloodstained-ritual-of-the-night",
+            "Released": "2019-06-18",
+            "Description": "",
+            "Metacritic": 81,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.01
+        }
     },
     {
         "Name": "Little Nightmares",
+        "Slug": "little-nightmares",
         "MyRating": 8,
         "DateCompleted": "2024",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2018-02-23",
-        "RawgId": "",
-        "Slug": "little-nightmares"
+        "RawgInfo": {
+            "Id": 395157,
+            "Name": "Little Nightmares: The Residence",
+            "Slug": "little-nightmares-the-residence",
+            "Released": "2018-02-23",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.21
+        }
     },
     {
         "Name": "Resident Evil 3 (2020)",
+        "Slug": "resident-evil-3-2020",
         "MyRating": 8,
         "DateCompleted": "2024",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2002-03-22",
-        "RawgId": "",
-        "Slug": "resident-evil-3-2020"
+        "RawgInfo": {
+            "Id": 56183,
+            "Name": "Resident Evil (2002)",
+            "Slug": "resident-evil-2002",
+            "Released": "2002-03-22",
+            "Description": "",
+            "Metacritic": 88,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.38
+        }
     },
     {
         "Name": "Tony Hawk Pro Skater 1\u002B2",
+        "Slug": "tony-hawk-pro-skater-12",
         "MyRating": 8,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "1999-08-31",
-        "RawgId": "",
-        "Slug": "tony-hawk-pro-skater-12"
+        "RawgInfo": {
+            "Id": 57944,
+            "Name": "Tony Hawk\u0027s Pro Skater",
+            "Slug": "tony-hawks-pro-skater",
+            "Released": "1999-08-31",
+            "Description": "",
+            "Metacritic": 92,
+            "Genres": [
+                {
+                    "Name": "Sports"
+                }
+            ],
+            "Rating": 4.38
+        }
     },
     {
         "Name": "Resident Evil 7: Biohazard",
+        "Slug": "resident-evil-7-biohazard",
         "MyRating": 8,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-01-23",
-        "RawgId": "",
-        "Slug": "resident-evil-7-biohazard"
+        "RawgInfo": {
+            "Id": 480,
+            "Name": "Resident Evil 7: Biohazard",
+            "Slug": "resident-evil-7-biohazard",
+            "Released": "2017-01-23",
+            "Description": "",
+            "Metacritic": 85,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.33
+        }
     },
     {
         "Name": "Mad Max",
+        "Slug": "mad-max",
         "MyRating": 7.9,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2015-08-31",
-        "RawgId": "",
-        "Slug": "mad-max"
+        "RawgInfo": {
+            "Id": 3191,
+            "Name": "Mad Max",
+            "Slug": "mad-max",
+            "Released": "2015-08-31",
+            "Description": "",
+            "Metacritic": 73,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.78
+        }
     },
     {
         "Name": "The Simpsons: Hit and Run",
+        "Slug": "the-simpsons-hit-and-run",
         "MyRating": 7.9,
         "DateCompleted": "2016",
         "System": "GCB",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2003-09-16",
-        "RawgId": "",
-        "Slug": "the-simpsons-hit-and-run"
+        "RawgInfo": {
+            "Id": 35576,
+            "Name": "The Simpsons: Hit \u0026 Run",
+            "Slug": "the-simpsons-hit-run",
+            "Released": "2003-09-16",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.08
+        }
     },
     {
         "Name": "Full Mojo Rampage",
+        "Slug": "full-mojo-rampage",
         "MyRating": 7.9,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2013-08-16",
-        "RawgId": "",
-        "Slug": "full-mojo-rampage"
+        "RawgInfo": {
+            "Id": 2266,
+            "Name": "Full Mojo Rampage",
+            "Slug": "full-mojo-rampage",
+            "Released": "2013-08-16",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 2.43
+        }
     },
     {
         "Name": "Crackdown",
+        "Slug": "crackdown",
         "MyRating": 7.8,
         "DateCompleted": "2017",
         "System": "360",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2007-02-20",
-        "RawgId": "",
-        "Slug": "crackdown"
+        "RawgInfo": {
+            "Id": 28422,
+            "Name": "Crackdown",
+            "Slug": "crackdown",
+            "Released": "2007-02-20",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.55
+        }
     },
     {
         "Name": "Renegade OPS",
+        "Slug": "renegade-ops",
         "MyRating": 7.8,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2011-09-13",
-        "RawgId": "",
-        "Slug": "renegade-ops"
+        "RawgInfo": {
+            "Id": 4612,
+            "Name": "Renegade Ops",
+            "Slug": "renegade-ops",
+            "Released": "2011-09-13",
+            "Description": "",
+            "Metacritic": 76,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 2.99
+        }
     },
     {
         "Name": "X-Men: Legends 2",
+        "Slug": "x-men-legends-2",
         "MyRating": 7.8,
         "DateCompleted": "2016",
         "System": "GCB",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2004-09-21",
-        "RawgId": "",
-        "Slug": "x-men-legends-2"
+        "RawgInfo": {
+            "Id": 56272,
+            "Name": "X-Men Legends",
+            "Slug": "x-men-legends",
+            "Released": "2004-09-21",
+            "Description": "",
+            "Metacritic": 79,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.12
+        }
     },
     {
         "Name": "Portal",
+        "Slug": "portal",
         "MyRating": 7.8,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2007-10-09",
-        "RawgId": "",
-        "Slug": "portal"
+        "RawgInfo": {
+            "Id": 13536,
+            "Name": "Portal",
+            "Slug": "portal",
+            "Released": "2007-10-09",
+            "Description": "",
+            "Metacritic": 90,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "Puzzle"
+                }
+            ],
+            "Rating": 4.48
+        }
     },
     {
         "Name": "Star Wars Jedi Fallen Order",
+        "Slug": "star-wars-jedi-fallen-order",
         "MyRating": 7.8,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2019-11-15",
-        "RawgId": "",
-        "Slug": "star-wars-jedi-fallen-order"
+        "RawgInfo": {
+            "Id": 257201,
+            "Name": "Star Wars Jedi: Fallen Order",
+            "Slug": "jedi-the-fallen-order",
+            "Released": "2019-11-15",
+            "Description": "",
+            "Metacritic": 80,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.13
+        }
     },
     {
         "Name": "Uncharted 4: The Lost Legacy",
+        "Slug": "uncharted-4-the-lost-legacy",
         "MyRating": 7.8,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-08-22",
-        "RawgId": "",
-        "Slug": "uncharted-4-the-lost-legacy"
+        "RawgInfo": {
+            "Id": 21926,
+            "Name": "Uncharted: The Lost Legacy",
+            "Slug": "uncharted-the-lost-legacy",
+            "Released": "2017-08-22",
+            "Description": "",
+            "Metacritic": 85,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.27
+        }
     },
     {
         "Name": "Kena Bridge of Spirits",
+        "Slug": "kena-bridge-of-spirits",
         "MyRating": 7.8,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2021-09-21",
-        "RawgId": "",
-        "Slug": "kena-bridge-of-spirits"
+        "RawgInfo": {
+            "Id": 452635,
+            "Name": "Kena: Bridge of Spirits",
+            "Slug": "kena-bridge-of-spirits",
+            "Released": "2021-09-21",
+            "Description": "",
+            "Metacritic": 80,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "Strategy"
+                },
+                {
+                    "Name": "Indie"
+                }
+            ],
+            "Rating": 3.97
+        }
     },
     {
         "Name": "Dead Space 3",
+        "Slug": "dead-space-3",
         "MyRating": 7.7,
         "DateCompleted": "2020",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2013-03-12",
-        "RawgId": "",
-        "Slug": "dead-space-3"
+        "RawgInfo": {
+            "Id": 41985,
+            "Name": "Dead Space 3: Awakened",
+            "Slug": "dead-space-3-awakened",
+            "Released": "2013-03-12",
+            "Description": "",
+            "Metacritic": 58,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.89
+        }
     },
     {
         "Name": "Shadow of the Tomb Raider",
+        "Slug": "shadow-of-the-tomb-raider",
         "MyRating": 7.7,
         "DateCompleted": "2019",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2018-09-14",
-        "RawgId": "",
-        "Slug": "shadow-of-the-tomb-raider"
+        "RawgInfo": {
+            "Id": 51329,
+            "Name": "Shadow of the Tomb Raider",
+            "Slug": "shadow-of-the-tomb-raider",
+            "Released": "2018-09-14",
+            "Description": "",
+            "Metacritic": 78,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.92
+        }
     },
     {
         "Name": "X-Men: Legends",
+        "Slug": "x-men-legends",
         "MyRating": 7.7,
         "DateCompleted": "2016",
         "System": "GCB",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2004-09-21",
-        "RawgId": "",
-        "Slug": "x-men-legends"
+        "RawgInfo": {
+            "Id": 56272,
+            "Name": "X-Men Legends",
+            "Slug": "x-men-legends",
+            "Released": "2004-09-21",
+            "Description": "",
+            "Metacritic": 79,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.12
+        }
     },
     {
         "Name": "Ghost Recon Wildlands",
+        "Slug": "ghost-recon-wildlands",
         "MyRating": 7.6,
         "DateCompleted": "2018",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-03-06",
-        "RawgId": "",
-        "Slug": "ghost-recon-wildlands"
+        "RawgInfo": {
+            "Id": 10125,
+            "Name": "Tom Clancy\u0027s Ghost Recon Wildlands",
+            "Slug": "tom-clancys-ghost-recon-wildlands-2",
+            "Released": "2017-03-06",
+            "Description": "",
+            "Metacritic": 72,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Massively Multiplayer"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.57
+        }
     },
     {
         "Name": "Titan Quest: Ragnorak",
+        "Slug": "titan-quest-ragnorak",
         "MyRating": 7.6,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-11-01",
-        "RawgId": "",
-        "Slug": "titan-quest-ragnorak"
+        "RawgInfo": {
+            "Id": 404474,
+            "Name": "Titan Quest: Ragnar\u00F6k",
+            "Slug": "titan-quest-ragnarok",
+            "Released": "2017-11-01",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.29
+        }
     },
     {
         "Name": "Giana Sisters: Twisted Dreams",
+        "Slug": "giana-sisters-twisted-dreams",
         "MyRating": 7.6,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2012-10-22",
-        "RawgId": "",
-        "Slug": "giana-sisters-twisted-dreams"
+        "RawgInfo": {
+            "Id": 3987,
+            "Name": "Giana Sisters: Twisted Dreams",
+            "Slug": "giana-sisters-twisted-dreams",
+            "Released": "2012-10-22",
+            "Description": "",
+            "Metacritic": 77,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "Arcade"
+                },
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Platformer"
+                }
+            ],
+            "Rating": 3.05
+        }
     },
     {
         "Name": "Starbound",
+        "Slug": "starbound",
         "MyRating": 7.6,
         "DateCompleted": "2025",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2016-07-22",
-        "RawgId": "",
-        "Slug": "starbound"
+        "RawgInfo": {
+            "Id": 12569,
+            "Name": "Starbound",
+            "Slug": "starbound",
+            "Released": "2016-07-22",
+            "Description": "",
+            "Metacritic": 81,
+            "Genres": [
+                {
+                    "Name": "Casual"
+                },
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.82
+        }
     },
     {
         "Name": "Crashlands",
+        "Slug": "crashlands",
         "MyRating": 7.5,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2016-01-20",
-        "RawgId": "",
-        "Slug": "crashlands"
+        "RawgInfo": {
+            "Id": 165,
+            "Name": "Crashlands",
+            "Slug": "crashlands",
+            "Released": "2016-01-20",
+            "Description": "",
+            "Metacritic": 78,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.65
+        }
     },
     {
         "Name": "Splinter Cell: Pandora Tomorrow",
+        "Slug": "splinter-cell-pandora-tomorrow",
         "MyRating": 7.5,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2004-03-23",
-        "RawgId": "",
-        "Slug": "splinter-cell-pandora-tomorrow"
+        "RawgInfo": {
+            "Id": 35326,
+            "Name": "Tom Clancy\u0027s Splinter Cell: Pandora Tomorrow",
+            "Slug": "splinter-cell-pandora-tomorrow",
+            "Released": "2004-03-23",
+            "Description": "",
+            "Metacritic": 90,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.11
+        }
     },
     {
         "Name": "F.E.A.R. 3",
+        "Slug": "f.e.a.r.-3",
         "MyRating": 7.5,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2011-03-25",
-        "RawgId": "",
-        "Slug": "f.e.a.r.-3"
+        "RawgInfo": {
+            "Id": 5565,
+            "Name": "F.E.A.R. 3",
+            "Slug": "fear-3",
+            "Released": "2011-03-25",
+            "Description": "",
+            "Metacritic": 74,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.35
+        }
     },
     {
         "Name": "Subnautica: Below Zero",
+        "Slug": "subnautica-below-zero",
         "MyRating": 7.5,
         "DateCompleted": "2026",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2021-05-14",
-        "RawgId": "",
-        "Slug": "subnautica-below-zero"
+        "RawgInfo": {
+            "Id": 287342,
+            "Name": "Subnautica: Below Zero",
+            "Slug": "subnautica-below-zero",
+            "Released": "2021-05-14",
+            "Description": "",
+            "Metacritic": 80,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Adventure"
+                }
+            ],
+            "Rating": 3.99
+        }
     },
     {
         "Name": "RAGE",
+        "Slug": "rage",
         "MyRating": 7.4,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2011-10-03",
-        "RawgId": "",
-        "Slug": "rage"
+        "RawgInfo": {
+            "Id": 5636,
+            "Name": "Rage",
+            "Slug": "rage",
+            "Released": "2011-10-03",
+            "Description": "",
+            "Metacritic": 79,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.42
+        }
     },
     {
         "Name": "The Elder Scrolls: Oblivion",
+        "Slug": "the-elder-scrolls-oblivion",
         "MyRating": 7.3,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2006-03-20",
-        "RawgId": "",
-        "Slug": "the-elder-scrolls-oblivion"
+        "RawgInfo": {
+            "Id": 5678,
+            "Name": "The Elder Scrolls IV: Oblivion",
+            "Slug": "the-elder-scrolls-iv-oblivion",
+            "Released": "2006-03-20",
+            "Description": "",
+            "Metacritic": 94,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.34
+        }
     },
     {
         "Name": "The Makers Eden",
+        "Slug": "the-makers-eden",
         "MyRating": 7.2,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2014-07-30",
-        "RawgId": "",
-        "Slug": "the-makers-eden"
+        "RawgInfo": {
+            "Id": 18902,
+            "Name": "The Maker\u0027s Eden",
+            "Slug": "the-makers-eden",
+            "Released": "2014-07-30",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Casual"
+                },
+                {
+                    "Name": "Adventure"
+                }
+            ],
+            "Rating": 0
+        }
     },
     {
         "Name": "SSX: On Tour",
+        "Slug": "ssx-on-tour",
         "MyRating": 7.1,
         "DateCompleted": "2016",
         "System": "GCB",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2012-02-28",
-        "RawgId": "",
-        "Slug": "ssx-on-tour"
+        "RawgInfo": {
+            "Id": 4284,
+            "Name": "SSX",
+            "Slug": "ssx",
+            "Released": "2012-02-28",
+            "Description": "",
+            "Metacritic": 82,
+            "Genres": [
+                {
+                    "Name": "Arcade"
+                },
+                {
+                    "Name": "Sports"
+                }
+            ],
+            "Rating": 3.51
+        }
     },
     {
         "Name": "Shantae: Risky\u0027s Revenge",
+        "Slug": "shantae-riskys-revenge",
         "MyRating": 7,
         "DateCompleted": "2023",
         "System": "BBD",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2010-10-04",
-        "RawgId": "",
-        "Slug": "shantae-riskys-revenge"
+        "RawgInfo": {
+            "Id": 1693,
+            "Name": "Shantae: Risky\u0027s Revenge",
+            "Slug": "shantae-riskys-revenge",
+            "Released": "2010-10-04",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                },
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Platformer"
+                }
+            ],
+            "Rating": 3.67
+        }
     },
     {
         "Name": "The Surge 2",
+        "Slug": "the-surge-2",
         "MyRating": 7,
         "DateCompleted": "2020",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2019-09-24",
-        "RawgId": "",
-        "Slug": "the-surge-2"
+        "RawgInfo": {
+            "Id": 58861,
+            "Name": "The Surge 2",
+            "Slug": "the-surge-2",
+            "Released": "2019-09-24",
+            "Description": "",
+            "Metacritic": 76,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.56
+        }
     },
     {
         "Name": "Assassins Creed: Revelations",
+        "Slug": "assassins-creed-revelations",
         "MyRating": 7,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2011-11-15",
-        "RawgId": "",
-        "Slug": "assassins-creed-revelations"
+        "RawgInfo": {
+            "Id": 4358,
+            "Name": "Assassin\u0027s Creed Revelations",
+            "Slug": "assassins-creed-revelations",
+            "Released": "2011-11-15",
+            "Description": "",
+            "Metacritic": 80,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.99
+        }
     },
     {
         "Name": "Assassins Creed: Brotherhood",
+        "Slug": "assassins-creed-brotherhood",
         "MyRating": 7,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2010-11-16",
-        "RawgId": "",
-        "Slug": "assassins-creed-brotherhood"
+        "RawgInfo": {
+            "Id": 10064,
+            "Name": "Assassin\u2019s Creed Brotherhood",
+            "Slug": "assassins-creed-brotherhood-2",
+            "Released": "2010-11-16",
+            "Description": "",
+            "Metacritic": 88,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.28
+        }
     },
     {
         "Name": "Assassins Creed 2",
+        "Slug": "assassins-creed-2",
         "MyRating": 7,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2009-11-17",
-        "RawgId": "",
-        "Slug": "assassins-creed-2"
+        "RawgInfo": {
+            "Id": 28568,
+            "Name": "Assassin\u0027s Creed II",
+            "Slug": "assassins-creed-ii",
+            "Released": "2009-11-17",
+            "Description": "",
+            "Metacritic": 89,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.43
+        }
     },
     {
         "Name": "Call of Duty: WW2",
+        "Slug": "call-of-duty-ww2",
         "MyRating": 6.8,
         "DateCompleted": "2020",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2003-10-29",
-        "RawgId": "",
-        "Slug": "call-of-duty-ww2"
+        "RawgInfo": {
+            "Id": 19369,
+            "Name": "Call of Duty",
+            "Slug": "call-of-duty",
+            "Released": "2003-10-29",
+            "Description": "",
+            "Metacritic": 91,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                }
+            ],
+            "Rating": 4.16
+        }
     },
     {
         "Name": "Chronology",
+        "Slug": "chronology",
         "MyRating": 6.8,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2014-05-11",
-        "RawgId": "",
-        "Slug": "chronology"
+        "RawgInfo": {
+            "Id": 17528,
+            "Name": "Chronology",
+            "Slug": "chronology",
+            "Released": "2014-05-11",
+            "Description": "",
+            "Metacritic": 70,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Puzzle"
+                }
+            ],
+            "Rating": 3.43
+        }
     },
     {
         "Name": "Crysis 2",
+        "Slug": "crysis-2",
         "MyRating": 6.6,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2000-09-13",
-        "RawgId": "",
-        "Slug": "crysis-2"
+        "RawgInfo": {
+            "Id": 52872,
+            "Name": "Dino Crisis 2",
+            "Slug": "dino-crisis-2-2011",
+            "Released": "2000-09-13",
+            "Description": "",
+            "Metacritic": 86,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.19
+        }
     },
     {
         "Name": "F.E.A.R. 2",
+        "Slug": "f.e.a.r.-2",
         "MyRating": 6.5,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2009-07-29",
-        "RawgId": "",
-        "Slug": "f.e.a.r.-2"
+        "RawgInfo": {
+            "Id": 39716,
+            "Name": "F.E.A.R. 2: Reborn",
+            "Slug": "fear-2-reborn",
+            "Released": "2009-07-29",
+            "Description": "",
+            "Metacritic": 57,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.67
+        }
     },
     {
         "Name": "CONVERGENCE: A League of Legends Story\u2122",
+        "Slug": "convergence-a-league-of-legends-story",
         "MyRating": 6.4,
         "DateCompleted": "2026",
         "System": "PC/BBD",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2023-05-23",
-        "RawgId": "",
-        "Slug": "convergence-a-league-of-legends-story"
+        "RawgInfo": {
+            "Id": 961272,
+            "Name": "CONVERGENCE: A League of Legends Story",
+            "Slug": "convrgence-a-league-of-legends-story",
+            "Released": "2023-05-23",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Platformer"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3
+        }
     },
     {
         "Name": "F.E.A.R. Perseus Mandate",
+        "Slug": "f.e.a.r.-perseus-mandate",
         "MyRating": 6.3,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2007-11-06",
-        "RawgId": "",
-        "Slug": "f.e.a.r.-perseus-mandate"
+        "RawgInfo": {
+            "Id": 38172,
+            "Name": "F.E.A.R. Perseus Mandate",
+            "Slug": "fear-perseus-mandate",
+            "Released": "2007-11-06",
+            "Description": "",
+            "Metacritic": 61,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.86
+        }
     },
     {
         "Name": "Sleeping Dogs: Zombie DLC Shit",
+        "Slug": "sleeping-dogs-zombie-dlc-shit",
         "MyRating": 6.3,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2014-10-08",
-        "RawgId": "",
-        "Slug": "sleeping-dogs-zombie-dlc-shit"
+        "RawgInfo": {
+            "Id": 16112,
+            "Name": "Sleeping Dogs: Definitive Edition",
+            "Slug": "sleeping-dogs-definitive-edition",
+            "Released": "2014-10-08",
+            "Description": "",
+            "Metacritic": 76,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.15
+        }
     },
     {
         "Name": "F.E.A.R. Extraction Point",
+        "Slug": "f.e.a.r.-extraction-point",
         "MyRating": 6.2,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2006-10-24",
-        "RawgId": "",
-        "Slug": "f.e.a.r.-extraction-point"
+        "RawgInfo": {
+            "Id": 37420,
+            "Name": "F.E.A.R. Extraction Point",
+            "Slug": "fear-extraction-point",
+            "Released": "2006-10-24",
+            "Description": "",
+            "Metacritic": 75,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.01
+        }
     },
     {
         "Name": "Rise of Tomb Raider: Baba Yaga",
+        "Slug": "rise-of-tomb-raider-baba-yaga",
         "MyRating": 6.2,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2015-11-10",
-        "RawgId": "",
-        "Slug": "rise-of-tomb-raider-baba-yaga"
+        "RawgInfo": {
+            "Id": 7689,
+            "Name": "Rise of the Tomb Raider",
+            "Slug": "rise-of-the-tomb-raider",
+            "Released": "2015-11-10",
+            "Description": "",
+            "Metacritic": 86,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.04
+        }
     },
     {
         "Name": "Tak 2: Staff of Dreams",
+        "Slug": "tak-2-staff-of-dreams",
         "MyRating": 6.2,
         "DateCompleted": "2016",
         "System": "GCB",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2004-10-11",
-        "RawgId": "",
-        "Slug": "tak-2-staff-of-dreams"
+        "RawgInfo": {
+            "Id": 53599,
+            "Name": "Tak 2: The Staff of Dreams",
+            "Slug": "tak-2-the-staff-of-dreams",
+            "Released": "2004-10-11",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [],
+            "Rating": 0
+        }
     },
     {
         "Name": "Assassins Creed",
+        "Slug": "assassins-creed",
         "MyRating": 6.2,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2007-11-13",
-        "RawgId": "",
-        "Slug": "assassins-creed"
+        "RawgInfo": {
+            "Id": 4729,
+            "Name": "Assassin\u0027s Creed",
+            "Slug": "assassins-creed",
+            "Released": "2007-11-13",
+            "Description": "",
+            "Metacritic": 80,
+            "Genres": [
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.92
+        }
     },
     {
         "Name": "Neon Drive",
+        "Slug": "neon-drive",
         "MyRating": 6.1,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2015-11-05",
-        "RawgId": "",
-        "Slug": "neon-drive"
+        "RawgInfo": {
+            "Id": 13639,
+            "Name": "Neon Drive",
+            "Slug": "neon-drive",
+            "Released": "2015-11-05",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Casual"
+                },
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Arcade"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.46
+        }
     },
     {
         "Name": "Sacred 3",
+        "Slug": "sacred-3",
         "MyRating": 6.1,
         "DateCompleted": "2016",
         "System": "Xbox 360",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2014-07-31",
-        "RawgId": "",
-        "Slug": "sacred-3"
+        "RawgInfo": {
+            "Id": 3628,
+            "Name": "Sacred 3",
+            "Slug": "sacred-3",
+            "Released": "2014-07-31",
+            "Description": "",
+            "Metacritic": 57,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 2.65
+        }
     },
     {
         "Name": "Need For Speed: Undercover",
+        "Slug": "need-for-speed-undercover",
         "MyRating": 6.1,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2008-11-18",
-        "RawgId": "",
-        "Slug": "need-for-speed-undercover"
+        "RawgInfo": {
+            "Id": 5615,
+            "Name": "Need For Speed Undercover",
+            "Slug": "nfs-undercover",
+            "Released": "2008-11-18",
+            "Description": "",
+            "Metacritic": 65,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Arcade"
+                }
+            ],
+            "Rating": 3.21
+        }
     },
     {
         "Name": "Need For Speed: Most Wanted (2005)",
+        "Slug": "need-for-speed-most-wanted-2005",
         "MyRating": 6.1,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2005-11-15",
-        "RawgId": "",
-        "Slug": "need-for-speed-most-wanted-2005"
+        "RawgInfo": {
+            "Id": 58890,
+            "Name": "Need For Speed: Most Wanted",
+            "Slug": "need-for-speed-most-wanted",
+            "Released": "2005-11-15",
+            "Description": "",
+            "Metacritic": 83,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Arcade"
+                }
+            ],
+            "Rating": 4.45
+        }
     },
     {
         "Name": "Need For Speed: Hot Pursuit",
+        "Slug": "need-for-speed-hot-pursuit",
         "MyRating": 6.1,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2010-11-16",
-        "RawgId": "",
-        "Slug": "need-for-speed-hot-pursuit"
+        "RawgInfo": {
+            "Id": 19633,
+            "Name": "Need For Speed: Hot Pursuit",
+            "Slug": "need-for-speed-hot-pursuit-2",
+            "Released": "2010-11-16",
+            "Description": "",
+            "Metacritic": 86,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Arcade"
+                }
+            ],
+            "Rating": 3.86
+        }
     },
     {
         "Name": "Far Cry 5",
+        "Slug": "far-cry-5",
         "MyRating": 6,
         "DateCompleted": "2020",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2004-03-22",
-        "RawgId": "",
-        "Slug": "far-cry-5"
+        "RawgInfo": {
+            "Id": 19560,
+            "Name": "Far Cry",
+            "Slug": "far-cry",
+            "Released": "2004-03-22",
+            "Description": "",
+            "Metacritic": 89,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.9
+        }
     },
     {
         "Name": "SteamWorld Dig",
+        "Slug": "steamworld-dig",
         "MyRating": 6,
         "DateCompleted": "2025",
         "System": "BBD",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2013-08-08",
-        "RawgId": "",
-        "Slug": "steamworld-dig"
+        "RawgInfo": {
+            "Id": 3748,
+            "Name": "SteamWorld Dig",
+            "Slug": "steamworld-dig",
+            "Released": "2013-08-08",
+            "Description": "",
+            "Metacritic": 76,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "Puzzle"
+                },
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Platformer"
+                }
+            ],
+            "Rating": 3.83
+        }
     },
     {
         "Name": "Zelda: Breath of the Wild",
+        "Slug": "zelda-breath-of-the-wild",
         "MyRating": 5.8,
         "DateCompleted": "2023",
         "System": "PC/Ryujinx",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-03-03",
-        "RawgId": "",
-        "Slug": "zelda-breath-of-the-wild"
+        "RawgInfo": {
+            "Id": 22511,
+            "Name": "The Legend of Zelda: Breath of the Wild",
+            "Slug": "the-legend-of-zelda-breath-of-the-wild",
+            "Released": "2017-03-03",
+            "Description": "",
+            "Metacritic": 97,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.47
+        }
     },
     {
         "Name": "Dirt 5",
+        "Slug": "dirt-5",
         "MyRating": 5.6,
         "DateCompleted": "2024",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2020-11-05",
-        "RawgId": "",
-        "Slug": "dirt-5"
+        "RawgInfo": {
+            "Id": 440079,
+            "Name": "DiRT 5",
+            "Slug": "dirt-5",
+            "Released": "2020-11-05",
+            "Description": "",
+            "Metacritic": 79,
+            "Genres": [
+                {
+                    "Name": "Racing"
+                },
+                {
+                    "Name": "Arcade"
+                }
+            ],
+            "Rating": 3.25
+        }
     },
     {
         "Name": "Shantae and the Pirate\u0027s Curse",
+        "Slug": "shantae-and-the-pirates-curse",
         "MyRating": 5.6,
         "DateCompleted": "2024",
         "System": "BBD",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2014-02-05",
-        "RawgId": "",
-        "Slug": "shantae-and-the-pirates-curse"
+        "RawgInfo": {
+            "Id": 2548,
+            "Name": "Shantae and the Pirate\u0027s Curse",
+            "Slug": "shantae-and-the-pirates-curse",
+            "Released": "2014-02-05",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                },
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Platformer"
+                }
+            ],
+            "Rating": 3.84
+        }
     },
     {
         "Name": "Uncharted: Drake\u0027s Fortune",
+        "Slug": "uncharted-drakes-fortune",
         "MyRating": 5.6,
         "DateCompleted": "2025",
         "System": "PC Emulation",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2007-11-19",
-        "RawgId": "",
-        "Slug": "uncharted-drakes-fortune"
+        "RawgInfo": {
+            "Id": 4340,
+            "Name": "Uncharted: Drake\u0027s Fortune",
+            "Slug": "uncharted-drakes-fortune",
+            "Released": "2007-11-19",
+            "Description": "",
+            "Metacritic": 88,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 4.02
+        }
     },
     {
         "Name": "Sleeping Dogs: Year of the snake",
+        "Slug": "sleeping-dogs-year-of-the-snake",
         "MyRating": 5.2,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2013-03-13",
-        "RawgId": "",
-        "Slug": "sleeping-dogs-year-of-the-snake"
+        "RawgInfo": {
+            "Id": 41976,
+            "Name": "Sleeping Dogs: Year of the Snake",
+            "Slug": "sleeping-dogs-year-of-the-snake",
+            "Released": "2013-03-13",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 2.91
+        }
     },
     {
         "Name": "Dragon Age 2",
+        "Slug": "dragon-age-2",
         "MyRating": 4,
         "DateCompleted": "2016",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2011-07-26",
-        "RawgId": "",
-        "Slug": "dragon-age-2"
+        "RawgInfo": {
+            "Id": 40986,
+            "Name": "Dragon Age 2: Legacy",
+            "Slug": "dragon-age-2-legacy",
+            "Released": "2011-07-26",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 3.86
+        }
     },
     {
         "Name": "Nexomon",
+        "Slug": "nexomon",
         "MyRating": 4,
         "DateCompleted": "2025",
         "System": "BBD",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2017-08-10",
-        "RawgId": "",
-        "Slug": "nexomon"
+        "RawgInfo": {
+            "Id": 45469,
+            "Name": "Nexomon",
+            "Slug": "nexomon",
+            "Released": "2017-08-10",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Indie"
+                },
+                {
+                    "Name": "Strategy"
+                },
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 0
+        }
     },
     {
         "Name": "Diablo 4",
+        "Slug": "diablo-4",
         "MyRating": 3.6,
         "DateCompleted": "2023",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "1996-12-31",
-        "RawgId": "",
-        "Slug": "diablo-4"
+        "RawgInfo": {
+            "Id": 29593,
+            "Name": "Diablo",
+            "Slug": "diablo",
+            "Released": "1996-12-31",
+            "Description": "",
+            "Metacritic": 94,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.4
+        }
     },
     {
         "Name": "Outer Wilds",
+        "Slug": "outer-wilds",
         "MyRating": 3,
         "DateCompleted": "2023",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2021-09-28",
-        "RawgId": "",
-        "Slug": "outer-wilds"
+        "RawgInfo": {
+            "Id": 650649,
+            "Name": "Outer Wilds - Echoes of the Eye",
+            "Slug": "outer-wilds-echoes-of-the-eye",
+            "Released": "2021-09-28",
+            "Description": "",
+            "Metacritic": null,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                }
+            ],
+            "Rating": 4.57
+        }
     },
     {
         "Name": "Alan Wake\u0027s American Nightmare",
+        "Slug": "alan-wakes-american-nightmare",
         "MyRating": 3,
         "DateCompleted": "2015",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2012-02-22",
-        "RawgId": "",
-        "Slug": "alan-wakes-american-nightmare"
+        "RawgInfo": {
+            "Id": 18336,
+            "Name": "Alan Wake\u0027s American Nightmare",
+            "Slug": "alan-wakes-american-nightmare",
+            "Released": "2012-02-22",
+            "Description": "",
+            "Metacritic": 73,
+            "Genres": [
+                {
+                    "Name": "Shooter"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.41
+        }
     },
     {
         "Name": "Splinter Cell: Double Agent",
+        "Slug": "splinter-cell-double-agent",
         "MyRating": 2,
         "DateCompleted": "2017",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "2006-10-17",
-        "RawgId": "",
-        "Slug": "splinter-cell-double-agent"
+        "RawgInfo": {
+            "Id": 4493,
+            "Name": "Tom Clancy\u0027s Splinter Cell Double Agent",
+            "Slug": "tcs-sc-double-agent",
+            "Released": "2006-10-17",
+            "Description": "",
+            "Metacritic": 80,
+            "Genres": [
+                {
+                    "Name": "Adventure"
+                },
+                {
+                    "Name": "Action"
+                }
+            ],
+            "Rating": 3.81
+        }
     },
     {
         "Name": "Diablo 3",
+        "Slug": "diablo-3",
         "MyRating": 0,
         "DateCompleted": "2014",
         "System": "PC",
         "ImageURI": null,
-        "MetaRating": "",
-        "ReleaseDate": "1996-12-31",
-        "RawgId": "",
-        "Slug": "diablo-3"
+        "RawgInfo": {
+            "Id": 29593,
+            "Name": "Diablo",
+            "Slug": "diablo",
+            "Released": "1996-12-31",
+            "Description": "",
+            "Metacritic": 94,
+            "Genres": [
+                {
+                    "Name": "Action"
+                },
+                {
+                    "Name": "RPG"
+                }
+            ],
+            "Rating": 4.4
+        }
     }
 ]
