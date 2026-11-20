@@ -8,12 +8,13 @@ namespace MetaImporter
 
         public async Task<RawgSearchResponse?> GetGameSearch(string slug, string apiKey)
         {
+            Console.WriteLine($"Searching: https://api.rawg.io/api/games?search={slug}&key={apiKey}");
             return _httpClient.GetFromJsonAsync<RawgSearchResponse>($"https://api.rawg.io/api/games?search={slug}&key={apiKey}").GetAwaiter().GetResult(); ;
         }
 
-        public async Task<RawgGame?> GetGame(string slug, string? apiKey)
+        public async Task<RawgGame?> GetGame(int id, string? apiKey)
         {
-            return _httpClient.GetFromJsonAsync<RawgGame>($"https://api.rawg.io/api/games/{slug}?key={apiKey}").GetAwaiter().GetResult(); ;
+            return _httpClient.GetFromJsonAsync<RawgGame>($"https://api.rawg.io/api/games/{id}?key={apiKey}").GetAwaiter().GetResult(); ;
         }
 
         public async Task<string> GetGameFromSlug(string slug, string apiKey)

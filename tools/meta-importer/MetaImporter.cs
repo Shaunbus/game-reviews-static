@@ -1,4 +1,5 @@
 ﻿using Slugify;
+using System.Text.Json;
 
 namespace MetaImporter
 {
@@ -36,6 +37,26 @@ namespace MetaImporter
             var imageClient = new GridDBClient();
             var jsonTool = new JsonUtilities();
 
+            var root =
+                    Path.GetFullPath(
+                        Path.Combine(
+                            AppContext.BaseDirectory,
+                            "..",
+                            "..",
+                            "..",
+                            "..",
+                            ".."));
+
+            var reviewsPath =
+                Path.Combine(
+                    root,
+                    "_data",
+                    "reviews.json");
+
+            var json =  File.ReadAllText(reviewsPath);
+
+            var gamesCache = JsonSerializer.Deserialize<List<GameRecord>>(json) ?? [];
+
             foreach (GameRecord game in games)
             {
                 //check if cover art already exists
@@ -60,14 +81,22 @@ namespace MetaImporter
                 }
 
                 // Populate it with Metadata
-
-                // TODO: Check Cache if game exists
-                // See if theres a match of slug in cache
-                // Check theres a RAWG ID
-                var result = rawgClient.GetGameSearch(game.Slug, rawgApiKey);
-                RawgGame gameResult = result.Result.Results.First();
-                Console.WriteLine($"Searched {game.Slug}. Returned {gameResult.Slug}")  ;
-                game.RawgInfo = gameResult;
+                // TODO: Make this better, iterate through the search and pick the correct game
+                var existing = gamesCache.FirstOrDefault(x => x.Name == game.Name);
+                if (existing is not null)
+                {
+                    // Right now I'm going to manually fix IDs and refresh the metadata here
+                    var result = rawgClient.GetGame(existing.RawgInfo.Id, rawgApiKey);
+                    game.RawgInfo = result.Result;
+                }
+                else
+                {       
+                    // New entries use search which sucks
+                    var result = rawgClient.GetGameSearch(game.Slug, rawgApiKey);
+                    RawgGame gameResult = result.Result.Results.First();
+                    Console.WriteLine($"Searched {game.Slug}. Returned {gameResult.Slug}");
+                    game.RawgInfo = gameResult;
+                }
             }
 
             jsonTool.WriteToFile(games);

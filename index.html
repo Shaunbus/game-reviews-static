@@ -4,37 +4,66 @@ layout: default
 
 <h1>Muh Game Reviews</h1>
 
-<div class="game-grid">
+<div class="controls">
+    <input
+        id="search"
+        type="text"
+        placeholder="Search games...">
+
+    <select id="sort">
+    <option value="rating-desc">
+        Highest Rating
+    </option>
+
+    <option value="rating-asc">
+        Lowest Rating
+    </option>
+
+    <option value="name-asc">
+        Name A-Z
+    </option>
+
+    <option value="name-desc">
+        Name Z-A
+    </option>
+</select>
+</div>
+
+<div id="games" class="game-grid">
 {% for game in site.data.reviews %}
-    <div class="game-card
-        {% if game.MyRating > 10 %}goat
-        {% endif %}">
+    <div
+    class="game-card {% if game.MyRating > 10 %}goat{% endif %}"
+    data-name="{{ game.Name | downcase }}"
+    data-rating="{{ game.MyRating }}">
 
         <img class="game-cover"
         src="{{ '/assets/images/' | append: game.Slug | append: '.png' | relative_url }}"
         alt="{{ game.name }}">
         
-        <h2>{{ game.Name }}</h2>
-        
-        <div class="rating">
-            {% if game.MyRating > 10 %} 🐐
-            {% else %} ⭐
-            {% endif %}
-            {{ game.MyRating }}
-        </div>
+        <div class="game-content">
+            <h2 class="game-title">
+                {{ game.Name }}
+            </h2>
+            
+            <div class="game-rating">
+                {% if game.MyRating > 10 %} 🐐
+                {% else %} ⭐
+                {% endif %}
+                {{ game.MyRating }}
+            </div>
 
-        <div>
-            🎮 Platform: {{ game.System }}
-        </div>
+            <div class="game-platform">
+                🎮 Platform: {{ game.System }}
+            </div>
 
-        <div>
-            Completed: {{ game.DateCompleted }}
-        </div>
+            <div>
+                ✅ Completed: {{ game.DateCompleted }}
+            </div>
 
-        <div>
-             Release Date: {{ game.ReleaseDate}}
+            <div>
+                📅 Release Date: {{ game.RawgInfo.Released }}
+            </div>
         </div>
-        
     </div> 
 {% endfor %}
 </div>
