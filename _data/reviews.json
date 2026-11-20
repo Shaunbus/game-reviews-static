@@ -101,7 +101,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 137,
+            "Id": 4166,
             "Name": "Mass Effect: Andromeda",
             "Slug": "mass-effect-andromeda",
             "Released": "2017-03-21",
@@ -198,7 +198,7 @@
         "System": "BBD/PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 938162,
+            "Id": 947973,
             "Name": "Halls of Torment: Prelude",
             "Slug": "halls-of-torment-prelude",
             "Released": "2023-03-09",
@@ -229,7 +229,7 @@
         "System": "PC/Deck",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 258322,
+            "Id": 650621,
             "Name": "Blasphemous",
             "Slug": "blasphemous",
             "Released": "2019-09-09",
@@ -285,7 +285,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 997552,
+            "Id": 605674,
             "Name": "Lies of P: Overture",
             "Slug": "lies-of-p-overture",
             "Released": "2025-06-07",
@@ -335,7 +335,7 @@
         "System": "PC/Ryujinx",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 27150,
+            "Id": 28026,
             "Name": "Wario Land: Super Mario Land 3",
             "Slug": "wario-land-super-mario-land-3",
             "Released": "1994-01-21",
@@ -827,7 +827,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 994839,
+            "Id": 975393,
             "Name": "Indiana Jones and the Great Circle - Digital Artbook",
             "Slug": "indiana-jones-and-the-great-circle-digital-artbook",
             "Released": "2024-12-08",
@@ -923,7 +923,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 977470,
+            "Id": 326243,
             "Name": "Elden Ring: Shadow of the Erdtree",
             "Slug": "elden-ring-shadow-of-the-erdtree",
             "Released": "2024-06-21",
@@ -970,7 +970,7 @@
         "System": "Wii",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 27571,
+            "Id": 463483,
             "Name": "Donkey Kong Country",
             "Slug": "donkey-kong-country",
             "Released": "1994-11-21",
@@ -992,7 +992,7 @@
         "System": "Switch 2",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 52512,
+            "Id": 1000582,
             "Name": "Donkey Kong",
             "Slug": "arcade-archives-donkey-kong",
             "Released": "1981-07-09",
@@ -1145,7 +1145,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 961200,
+            "Id": 12929,
             "Name": "The Talos Principle 2",
             "Slug": "talos-principle-2",
             "Released": "2023-11-01",
@@ -1254,7 +1254,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 42230,
+            "Id": 923,
             "Name": "Titanfall",
             "Slug": "titanfall",
             "Released": "2014-03-11",
@@ -1301,7 +1301,7 @@
         "System": "Wii",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 25173,
+            "Id": 27036,
             "Name": "Super Mario Bros. 2",
             "Slug": "super-mario-bros-2",
             "Released": "1988-10-09",
@@ -1329,7 +1329,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 528764,
+            "Id": 366881,
             "Name": "Little Nightmares II - DEMO",
             "Slug": "little-nightmares-ii-demo",
             "Released": "2020-12-09",
@@ -1713,7 +1713,7 @@
         "System": "Xbox 360",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 622492,
+            "Id": 28637,
             "Name": "Forza Horizon 5",
             "Slug": "forza-horizon-5",
             "Released": "2021-11-08",
@@ -1763,7 +1763,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 42048,
+            "Id": 4439,
             "Name": "Mass Effect 3: Earth",
             "Slug": "mass-effect-3-earth",
             "Released": "2012-07-17",
@@ -1975,7 +1975,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 4570,
+            "Id": 4550,
             "Name": "Dead Space (2008)",
             "Slug": "dead-space",
             "Released": "2008-10-13",
@@ -2000,7 +2000,7 @@
         "System": "GCB",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 4284,
+            "Id": 53563,
             "Name": "SSX",
             "Slug": "ssx",
             "Released": "2012-02-28",
@@ -2143,7 +2143,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 42301,
+            "Id": 4062,
             "Name": "Bioshock Infinite: Clash in the Clouds",
             "Slug": "bioshock-infinite-clash-in-the-clouds",
             "Released": "2013-07-30",
@@ -2424,7 +2424,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 254542,
+            "Id": 419297,
             "Name": "Horizon Zero Dawn: The Frozen Wilds",
             "Slug": "horizon-zero-dawn-the-frozen-wilds",
             "Released": "2017-11-07",
@@ -2720,7 +2720,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 44469,
+            "Id": 3017,
             "Name": "Just Cause 3: Multiplayer Mod",
             "Slug": "just-cause-3-multiplayer-mod",
             "Released": "2017-07-20",
@@ -2773,7 +2773,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 19560,
+            "Id": 4161,
             "Name": "Far Cry",
             "Slug": "far-cry",
             "Released": "2004-03-22",
@@ -2826,7 +2826,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 22959,
+            "Id": 2551,
             "Name": "Dark Fall 3: Lost Souls",
             "Slug": "dark-fall-3-lost-souls",
             "Released": "2009-12-03",
@@ -2873,7 +2873,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 34119,
+            "Id": 11686,
             "Name": "Postal 2: Apocalypse Weekend",
             "Slug": "postal-2-apocalypse-weekend",
             "Released": "2004-08-11",
@@ -3203,7 +3203,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 19560,
+            "Id": 2767,
             "Name": "Far Cry",
             "Slug": "far-cry",
             "Released": "2004-03-22",
@@ -3256,7 +3256,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 928832,
+            "Id": 54,
             "Name": "Punch Club 2: Fast Forward",
             "Slug": "punch-club-2-fast-forward",
             "Released": "2023-07-20",
@@ -3480,7 +3480,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 1012,
+            "Id": 326219,
             "Name": "Destroy All Humans!",
             "Slug": "destroy-all-humans",
             "Released": "2005-05-26",
@@ -3505,7 +3505,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 324992,
+            "Id": 10061,
             "Name": "Watch Dogs: Legion",
             "Slug": "watch-dogs-legion",
             "Released": "2020-10-29",
@@ -3583,7 +3583,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 321226,
+            "Id": 5578,
             "Name": "GRID (2019)",
             "Slug": "grid-3",
             "Released": "2019-10-10",
@@ -3617,7 +3617,7 @@
         "System": "Wii",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 27150,
+            "Id": 27024,
             "Name": "Wario Land: Super Mario Land 3",
             "Slug": "wario-land-super-mario-land-3",
             "Released": "1994-01-21",
@@ -3863,7 +3863,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 19560,
+            "Id": 3497,
             "Name": "Far Cry",
             "Slug": "far-cry",
             "Released": "2004-03-22",
@@ -3963,7 +3963,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 3579,
+            "Id": 4003,
             "Name": "Defense Grid 2",
             "Slug": "defense-grid-2",
             "Released": "2014-09-23",
@@ -4172,7 +4172,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 864991,
+            "Id": 17126,
             "Name": "Torchlight: Infinite",
             "Slug": "torchlight-infinite",
             "Released": "2022-10-11",
@@ -4228,7 +4228,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 394390,
+            "Id": 4806,
             "Name": "Mass Effect 2: Firewalker",
             "Slug": "mass-effect-2-firewalker",
             "Released": "2010-03-23",
@@ -4272,7 +4272,7 @@
         "System": "PC/Yuzu",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 37357,
+            "Id": 274759,
             "Name": "Marvel Ultimate Alliance",
             "Slug": "marvel-ult-alliance",
             "Released": "2006-10-24",
@@ -4462,7 +4462,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 395157,
+            "Id": 41,
             "Name": "Little Nightmares: The Residence",
             "Slug": "little-nightmares-the-residence",
             "Released": "2018-02-23",
@@ -4512,7 +4512,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 57944,
+            "Id": 442847,
             "Name": "Tony Hawk\u0027s Pro Skater",
             "Slug": "tony-hawks-pro-skater",
             "Released": "1999-08-31",
@@ -4690,7 +4690,7 @@
         "System": "GCB",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 56272,
+            "Id": 56263,
             "Name": "X-Men Legends",
             "Slug": "x-men-legends",
             "Released": "2004-09-21",
@@ -4824,7 +4824,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 41985,
+            "Id": 4154,
             "Name": "Dead Space 3: Awakened",
             "Slug": "dead-space-3-awakened",
             "Released": "2013-03-12",
@@ -5192,7 +5192,7 @@
         "System": "GCB",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 4284,
+            "Id": 56215,
             "Name": "SSX",
             "Slug": "ssx",
             "Released": "2012-02-28",
@@ -5345,7 +5345,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 19369,
+            "Id": 21924,
             "Name": "Call of Duty",
             "Slug": "call-of-duty",
             "Released": "2003-10-29",
@@ -5398,7 +5398,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 52872,
+            "Id": 19647,
             "Name": "Dino Crisis 2",
             "Slug": "dino-crisis-2-2011",
             "Released": "2000-09-13",
@@ -5554,7 +5554,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 7689,
+            "Id": 395151,
             "Name": "Rise of the Tomb Raider",
             "Slug": "rise-of-the-tomb-raider",
             "Released": "2015-11-10",
@@ -5747,7 +5747,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 19560,
+            "Id": 23585,
             "Name": "Far Cry",
             "Slug": "far-cry",
             "Released": "2004-03-22",
@@ -5943,7 +5943,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 40986,
+            "Id": 28580,
             "Name": "Dragon Age 2: Legacy",
             "Slug": "dragon-age-2-legacy",
             "Released": "2011-07-26",
@@ -5996,7 +5996,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 29593,
+            "Id": 388309,
             "Name": "Diablo",
             "Slug": "diablo",
             "Released": "1996-12-31",
@@ -6093,7 +6093,7 @@
         "System": "PC",
         "ImageURI": null,
         "RawgInfo": {
-            "Id": 29593,
+            "Id": 23600,
             "Name": "Diablo",
             "Slug": "diablo",
             "Released": "1996-12-31",
