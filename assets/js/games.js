@@ -4,25 +4,14 @@ const searchInput =
 searchInput?.addEventListener(
     "input",
     function () {
-        const search =
-            this.value.toLowerCase();
+        const search = this.value.toLowerCase();
 
-        const cards =
-            document.querySelectorAll(".game-card");
+        const cards = document.querySelectorAll(".game-card");
 
-        cards.forEach(card => {
-            const name =
-                card.dataset.name;
-
-            card.style.display =
-                name.includes(search)
-                    ? ""
-                    : "none";
-        });
+        cards.forEach(card => { const name = card.dataset.name; card.style.display = name.includes(search) ? "" : "none"; });
     });
 
-const sortSelect =
-    document.getElementById("sort");
+const sortSelect = document.getElementById("sort");
 
 sortSelect?.addEventListener(
     "change",
@@ -38,8 +27,7 @@ sortSelect?.addEventListener(
                 )
             );
 
-        switch (this.value)
-        {
+        switch (this.value) {
             case "rating-desc":
                 cards.sort((a, b) =>
                     Number(b.dataset.rating) -
@@ -50,6 +38,30 @@ sortSelect?.addEventListener(
                 cards.sort((a, b) =>
                     Number(a.dataset.rating) -
                     Number(b.dataset.rating));
+                break;
+
+            case "release-desc":
+                cards.sort((a, b) =>
+                    new Date(b.dataset.release) -
+                    new Date(a.dataset.release));
+                break;
+
+            case "release-asc":
+                cards.sort((a, b) =>
+                    new Date(a.dataset.release) -
+                    new Date(b.dataset.release));
+                break;
+
+            case "complete-desc":
+                cards.sort((a, b) =>
+                    new Date(b.dataset.complete) -
+                    new Date(a.dataset.complete));
+                break;
+
+            case "complete-asc":
+                cards.sort((a, b) =>
+                    new Date(a.dataset.complete) -
+                    new Date(b.dataset.complete));
                 break;
 
             case "name-asc":
@@ -65,6 +77,5 @@ sortSelect?.addEventListener(
                 break;
         }
 
-        cards.forEach(card =>
-            grid.appendChild(card));
+        cards.forEach(card => grid.appendChild(card));
     });

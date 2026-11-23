@@ -5,46 +5,58 @@ layout: default
 <h1>Muh Game Reviews</h1>
 
 <div class="controls">
-    <input
-        id="search"
-        type="text"
-        placeholder="Search games...">
+    <input id="search" type="text" placeholder="Search games...">
 
     <select id="sort">
-    <option value="rating-desc">
-        Highest Rating
-    </option>
+        <option value="rating-desc">
+            Highest Rating
+        </option>
 
-    <option value="rating-asc">
-        Lowest Rating
-    </option>
+        <option value="rating-asc">
+            Lowest Rating
+        </option>
 
-    <option value="name-asc">
-        Name A-Z
-    </option>
+        <option value="release-desc">
+            Newest Games
+        </option>
 
-    <option value="name-desc">
-        Name Z-A
-    </option>
-</select>
+        <option value="release-asc">
+            Oldest Games
+        </option>
+
+        <option value="complete-desc">
+            Newest Reviews
+        </option>
+
+        <option value="complete-asc">
+            Oldest Reviews
+        </option>
+
+        <option value="name-asc">
+            Name A-Z
+        </option>
+
+        <option value="name-desc">
+            Name Z-A
+        </option>
+
+    </select>
 </div>
 
 <div id="games" class="game-grid">
-{% for game in site.data.reviews %}
-    <div
-    class="game-card {% if game.MyRating > 10 %}goat{% endif %}"
-    data-name="{{ game.Name | downcase }}"
-    data-rating="{{ game.MyRating }}">
+    {% for game in site.data.reviews %}
+    <div class="game-card {% if game.MyRating > 10 %}goat{% endif %}" data-name="{{ game.Name | downcase }}"
+        data-rating="{{ game.MyRating }}" data-release="{{ game.RawgInfo.Released }}"
+        data-complete="{{ game.DateCompleted }}">
 
-        <img class="game-cover"
-        src="{{ '/assets/images/' | append: game.Slug | append: '.png' | relative_url }}"
-        alt="{{ game.name }}">
-        
+        <img class="game-cover" src="{{ '/assets/images/' | append: game.Slug | append: '.png' | relative_url }}"
+            alt="{{ game.name }}">
+
         <div class="game-content">
             <h2 class="game-title">
                 {{ game.Name }}
             </h2>
-            
+
             <div class="game-rating">
                 {% if game.MyRating > 10 %} 🐐
                 {% else %} ⭐
@@ -63,7 +75,15 @@ layout: default
             <div>
                 📅 Release Date: {{ game.RawgInfo.Released }}
             </div>
+
+            <div class="genre-container">
+                {% for genre in game.RawgInfo.Genres %}
+                <span class="genre-tag">
+                    {{ genre.Name }}
+                </span>
+                {% endfor %}
+            </div>
         </div>
-    </div> 
-{% endfor %}
+    </div>
+    {% endfor %}
 </div>
